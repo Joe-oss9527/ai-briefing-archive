@@ -1,0 +1,114 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-08-25T11:37:30Z",
+  "topics": [
+    {
+      "topic_id": "cluster--1",
+      "headline": "AI技术与应用进展",
+      "bullets": [
+        {
+          "text": "Yann LeCun认为，生成模型和LLM因试图在缺乏理解的情况下进行预测，难以实现规模化。",
+          "url": "https://x.com/ylecun/status/1959258852844511284"
+        },
+        {
+          "text": "Hugging Face推出了免费的LLM和扩散模型认证课程。",
+          "url": "https://x.com/huggingface/status/1959810206973505701"
+        },
+        {
+          "text": "UnslothAI定期发布DeepSeek AI模型的bf16转换版本，受到社区赞赏。",
+          "url": "https://x.com/jeremyphoward/status/1959369169750598018"
+        },
+        {
+          "text": "研究人员发现OpenAI模型存在新的越狱漏洞，系统提示词中的用户姓名可能影响模型响应并导致漏洞。",
+          "url": "https://x.com/jeremyphoward/status/1959926367434493968"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-5",
+      "headline": "xAI Grok 2 模型开源发布",
+      "bullets": [
+        {
+          "text": "xAI 已在 Hugging Face 上开源发布 Grok 2 模型权重，该模型是 xAI 去年最好的模型。",
+          "url": "https://x.com/ClementDelangue/status/1959356467959439464"
+        },
+        {
+          "text": "Grok 2 模型大小为 500GB，其架构与 Grok 1 相似，并支持 μP、FSDP2 兼容的 Muon 和 PolyNorm。",
+          "url": "https://x.com/rasbt/status/1959643038268920231"
+        },
+        {
+          "text": "Elon Musk 宣布 Grok 3 模型也将在大约六个月后开源。",
+          "url": "https://x.com/ClementDelangue/status/1959383521409302890"
+        },
+        {
+          "text": "有用户指出 Grok 2 的开源许可协议相对严格。",
+          "url": "https://x.com/jeremyphoward/status/1959610510686745035"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-2",
+      "headline": "AI发展方向与经济影响探讨",
+      "bullets": [
+        {
+          "text": "DeepMind的Genie 3世界模型能够实时想象并生成新世界，支持在AI内部训练AI。",
+          "url": "https://x.com/demishassabis/status/1959439355359224247"
+        },
+        {
+          "text": "Sakana AI和Hardmaru提出通过模拟生物进化过程来发展AI模型，使其竞争、结合优势。",
+          "url": "https://x.com/hardmaru/status/1959801157314138466"
+        },
+        {
+          "text": "Emad Mostaque发布新书《The Last Economy》，探讨AI时代从稀缺到富足的经济学理论。",
+          "url": "https://x.com/EMostaque/status/1959647434813890778"
+        },
+        {
+          "text": "Yann LeCun指出AI在感知深度方面仍有欠缺，LLM在数据量上虽大但缺乏人类四岁儿童的感知经验。",
+          "url": "https://x.com/ylecun/status/1959259217795203227"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-1",
+      "headline": "Google Gemini App限时免费提供Veo 3视频生成",
+      "bullets": [
+        {
+          "text": "Google Gemini App在周末限时免费提供Veo 3视频生成服务，截止太平洋时间8月24日晚10点。",
+          "url": "https://x.com/demishassabis/status/1959743212735885786"
+        },
+        {
+          "text": "活动期间，Gemini免费用户可生成6个视频，Pro用户每日生成量翻倍至6个，Ultra用户每日翻倍至10个。",
+          "url": "https://x.com/demishassabis/status/1959743266154291551"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-3",
+      "headline": "LLM辅助编程与学习环境",
+      "bullets": [
+        {
+          "text": "Jeremy Howard介绍了其新的“solveit”环境，旨在通过交互式方式提升编程学习体验。",
+          "url": "https://x.com/jeremyphoward/status/1959897068329206220"
+        },
+        {
+          "text": "Karpathy分享了其在使用LLM辅助编程方面的经验，强调了优化LLM辅助编码体验的重要性。",
+          "url": "https://x.com/karpathy/status/1959703967694545296"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-4",
+      "headline": "AI社区与学习资源",
+      "bullets": [
+        {
+          "text": "AI社区持续提供多样化的学习机会，包括研讨会、聚会和深度研讨。",
+          "url": "https://x.com/aidangomez/status/1959754480934846928"
+        },
+        {
+          "text": "有观点强调参与开源项目是学习编程技术的重要途径。",
+          "url": "https://x.com/jeremyphoward/status/1959418997180358855"
+        }
+      ]
+    }
+  ]
+}
