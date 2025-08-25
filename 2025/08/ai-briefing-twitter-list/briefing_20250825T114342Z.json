@@ -1,0 +1,100 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-08-25T11:42:52Z",
+  "topics": [
+    {
+      "topic_id": "cluster-5",
+      "headline": "xAI Grok 2模型在Hugging Face开源",
+      "bullets": [
+        {
+          "text": "xAI已在Hugging Face平台开源其Grok 2（或称Grok 2.5）模型权重。",
+          "url": "https://x.com/ClementDelangue/status/1959356467959439464"
+        },
+        {
+          "text": "该模型被描述为一个500GB的大型生产模型，其架构与Grok 1相似，并使用μP训练。",
+          "url": "https://x.com/ClementDelangue/status/1959356049929933228"
+        },
+        {
+          "text": "Elon Musk表示Grok 2.5已开源，Grok 3预计将在约六个月后开源。",
+          "url": "https://x.com/ClementDelangue/status/1959383521409302890"
+        },
+        {
+          "text": "有评论指出其开源许可协议可能存在限制。",
+          "url": "https://x.com/jeremyphoward/status/1959610510686745035"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-2",
+      "headline": "AI发展方向与经济学新视角",
+      "bullets": [
+        {
+          "text": "Sakana AI和hardmaru提出通过模拟生物进化来发展AI模型，使其竞争、交配并结合优势。",
+          "url": "https://x.com/hardmaru/status/1959799626997158249"
+        },
+        {
+          "text": "DeepMind的Genie 3世界模型能够想象并生成新世界，支持在AI内部训练AI。",
+          "url": "https://x.com/demishassabis/status/1959439355359224247"
+        },
+        {
+          "text": "Emad Mostaque发布新书《The Last Economy》，提出AI时代的新经济理论，旨在利用AI解决全球问题并实现从稀缺到富足的转变。",
+          "url": "https://x.com/EMostaque/status/1959647434813890778"
+        },
+        {
+          "text": "Yann LeCun指出AI在感知深度方面仍有欠缺，认为LLM在没有预测的情况下难以扩展。",
+          "url": "https://x.com/ylecun/status/1959259217795203227"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-1",
+      "headline": "Google Gemini Veo 3视频生成限时免费",
+      "bullets": [
+        {
+          "text": "Google Gemini App限时提供免费Veo 3视频生成服务，活动于太平洋时间8月24日晚10点结束。",
+          "url": "https://x.com/demishassabis/status/1959743212735885786"
+        },
+        {
+          "text": "活动期间，所有用户的Veo 3视频生成额度翻倍，包括免费用户、Pro用户和Ultra用户。",
+          "url": "https://x.com/JeffDean/status/1959818734337733047"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-3",
+      "headline": "LLM辅助编程与学习环境",
+      "bullets": [
+        {
+          "text": "Jeremy Howard介绍了一个名为“solveit”的新型学习、编码、写作环境，旨在通过交互式方式提升编程学习体验。",
+          "url": "https://x.com/jeremyphoward/status/1959897068329206220"
+        },
+        {
+          "text": "Karpathy分享了关于优化LLM辅助编程体验的见解，指出其使用方式并非局限于单一完美工具。",
+          "url": "https://x.com/karpathy/status/1959703967694545296"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster--1",
+      "headline": "AI/ML工具与资源更新",
+      "bullets": [
+        {
+          "text": "Hugging Face推出免费AI课程，涵盖LLM和扩散模型，并提供认证。",
+          "url": "https://x.com/huggingface/status/1959810206973505701"
+        },
+        {
+          "text": "Hunyuan 3D-2.1模型可在Hugging Face Space免费使用，能将平面图像转换为高质量3D模型。",
+          "url": "https://x.com/huggingface/status/1959379706882806191"
+        },
+        {
+          "text": "UnslothAI持续发布DeepSeek AI模型的bf16转换版本。",
+          "url": "https://x.com/jeremyphoward/status/1959369169750598018"
+        },
+        {
+          "text": "Hugging Face预告本月底将发布新的开源图像模型。",
+          "url": "https://x.com/huggingface/status/1959700489299444137"
+        }
+      ]
+    }
+  ]
+}
