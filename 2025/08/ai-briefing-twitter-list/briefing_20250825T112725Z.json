@@ -1,0 +1,100 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-08-25T00:00:00Z",
+  "topics": [
+    {
+      "topic_id": "cluster--1",
+      "headline": "AI领域观点、工具与安全动态",
+      "bullets": [
+        {
+          "text": "Yann LeCun指出，生成模型和LLM因缺乏对世界模型的理解，难以仅通过预测实现通用智能，限制了其扩展性。",
+          "url": "https://x.com/ylecun/status/1959258852844511284"
+        },
+        {
+          "text": "Hugging Face推出免费的LLM和扩散模型认证课程，旨在普及AI技术教育。",
+          "url": "https://x.com/huggingface/status/1959810206973505701"
+        },
+        {
+          "text": "Hunyuan 3D-2.1模型已在Hugging Face Space上提供，用户可免费将平面图像转换为工作室质量的3D模型。",
+          "url": "https://x.com/huggingface/status/1959379706882806191"
+        },
+        {
+          "text": "研究人员发现OpenAI模型存在新型越狱漏洞，通过在系统提示中加入用户姓名即可影响GPT响应。",
+          "url": "https://x.com/jeremyphoward/status/1959926367434493968"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-5",
+      "headline": "xAI Grok 2模型开源发布",
+      "bullets": [
+        {
+          "text": "xAI已在Hugging Face上开源发布Grok 2模型，该模型是xAI 2024年工作的核心部分，大小为500GB。",
+          "url": "https://x.com/ClementDelangue/status/1959356467959439464"
+        },
+        {
+          "text": "Elon Musk确认，Grok 2.5（xAI去年最佳模型）已开源，Grok 3预计将在约6个月后开源。",
+          "url": "https://x.com/ClementDelangue/status/1959383521409302890"
+        },
+        {
+          "text": "Grok 2模型与Grok 1架构相同，并采用μP训练，其权重已在Hugging Face上提供。",
+          "url": "https://x.com/huggingface/status/1959810328507658368"
+        },
+        {
+          "text": "有评论指出，Grok 2的开源许可协议相对严格，被认为是近期主要开源权重发布中限制较多的之一。",
+          "url": "https://x.com/jeremyphoward/status/1959610510686745035"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-2",
+      "headline": "AI发展方向与经济社会影响探讨",
+      "bullets": [
+        {
+          "text": "DeepMind的Genie 3世界模型能够实时想象并生成新世界，支持在AI内部训练AI。",
+          "url": "https://x.com/demishassabis/status/1959439355359224247"
+        },
+        {
+          "text": "Sakana AI提出通过模拟生物进化过程来发展AI模型，使其竞争、结合优势以产生更适应的AI。",
+          "url": "https://x.com/hardmaru/status/1959801157314138466"
+        },
+        {
+          "text": "Emad Mostaque发布新书《The Last Economy》，提出AI时代的新经济理论，探讨从稀缺到富足的转变。",
+          "url": "https://x.com/EMostaque/status/1959647434813890778"
+        },
+        {
+          "text": "Yann LeCun指出AI在感知深度方面存在不足，认为四岁儿童所见数据量已超过LLM。",
+          "url": "https://x.com/ylecun/status/1959259217795203227"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-1",
+      "headline": "Google Gemini限时免费提供Veo 3视频生成服务",
+      "bullets": [
+        {
+          "text": "Google Gemini应用在本周末限时免费提供Veo 3视频生成服务。",
+          "url": "https://x.com/demishassabis/status/1959361297461481479"
+        },
+        {
+          "text": "为鼓励用户创作，Gemini将所有用户的Veo 3视频生成额度翻倍，活动截止至太平洋时间8月24日晚10点。",
+          "url": "https://x.com/JeffDean/status/1959818734337733047"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-3",
+      "headline": "LLM辅助编程与学习环境进展",
+      "bullets": [
+        {
+          "text": "Karpathy分享了关于优化LLM辅助编码体验的见解，指出其使用正趋向于更专注的单一功能。",
+          "url": "https://x.com/karpathy/status/1959703967694545296"
+        },
+        {
+          "text": "Jeremy Howard展示了新的“solveit”环境，该环境旨在通过交互式方式提升编程技术学习效率。",
+          "url": "https://x.com/jeremyphoward/status/1959897068329206220"
+        }
+      ]
+    }
+  ]
+}
