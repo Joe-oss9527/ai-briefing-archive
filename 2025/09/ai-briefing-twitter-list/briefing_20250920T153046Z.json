@@ -1,0 +1,64 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-09-20T16:00:00Z",
+  "topics": [
+    {
+      "topic_id": "cluster-1",
+      "headline": "AI模型与应用技术动态",
+      "bullets": [
+        {
+          "text": "@theworldlabs的Marble平台支持通过图像生成3D环境，并可在VisionPro上进行探索。",
+          "url": "https://x.com/drfeifei/status/1969041901119537473"
+        },
+        {
+          "text": "LumaLabsAI推出Ray3模型，具备原生HDR视频生成能力。",
+          "url": "https://x.com/EMostaque/status/1969104823355142478"
+        },
+        {
+          "text": "HuggingFace平台新增ForPublicAI的Ape模型推理服务，并发布WAN 2.2动画模型及IBM SmolDocling VLM。",
+          "url": "https://x.com/huggingface/status/1969133383880933477"
+        },
+        {
+          "text": "Google AI宣布Gemini 2.5 Deep Think高级版本在竞赛中达到金牌水平表现。",
+          "url": "https://x.com/GoogleAI/status/1969122206744789076"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster--1",
+      "headline": "AI研究与开源项目更新",
+      "bullets": [
+        {
+          "text": "Hunyuan3D 3.0发布，提升了精度、几何分辨率和体素超高清模式。",
+          "url": "https://x.com/EMostaque/status/1969358260726587489"
+        },
+        {
+          "text": "小米发布开源音频模型MiMo-Audio。",
+          "url": "https://x.com/huggingface/status/1969133330927944084"
+        },
+        {
+          "text": "开源基因优化模型CodonTransformer下载量突破25万。",
+          "url": "https://x.com/huggingface/status/1969133354722156724"
+        },
+        {
+          "text": "LeRobot SO101机器人设置成本降低50%，并支持手机远程操控。",
+          "url": "https://x.com/huggingface/status/1969133548838744261"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-2",
+      "headline": "新的免费实验追踪库Trackio发布",
+      "bullets": [
+        {
+          "text": "Trackio作为一款新的免费实验追踪库发布，其语法与wandb相同，可作为直接替代方案。",
+          "url": "https://x.com/huggingface/status/1969054496866103424"
+        },
+        {
+          "text": "Trackio被推荐为wandb的轻量级、免费且易于使用的替代品。",
+          "url": "https://x.com/ClementDelangue/status/1969095921343377894"
+        }
+      ]
+    }
+  ]
+}
