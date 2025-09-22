@@ -1,0 +1,26 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-09-22T10:58:47Z",
+  "topics": [
+    {
+      "topic_id": "cluster--1",
+      "headline": "阿里云发布 Qwen3-Next-80B-A3B 系列模型，支持 FP8 量化与主流推理框架",
+      "bullets": [
+        {
+          "text": "阿里云发布了 Qwen3-Next-80B-A3B-Instruct-FP8 和 Qwen3-Next-80B-A3B-Thinking-FP8 模型。这些模型支持 FP8 量化，并与 Hugging Face Transformers、vLLM 和 SGLang 等主流推理框架完全兼容。工程师可利用 FP8 量化显著降低大型语言模型部署时的显存占用并提升推理速度，尤其适用于资源受限或高吞吐量场景。兼容性确保了现有 LLM 工作流能无缝集成新模型，便于快速验证与部署。建议尝试在 vLLM 或 SGLang 环境中加载并测试 FP8 版本，评估其在特定任务上的性能与资源消耗。",
+          "url": "https://x.com/Alibaba_Qwen/status/1970052154330353857"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster--1",
+      "headline": "PostgreSQL `jsonb_to_recordset` 函数的实用技巧",
+      "bullets": [
+        {
+          "text": "PostgreSQL 的 `jsonb_to_recordset` 函数被指出是一个处理 JSONB 数据的强大工具。对于需要将 JSONB 数组转换为关系型记录集的工程师，此函数能简化数据解析和查询操作，避免复杂的应用层逻辑。它有助于高效地从嵌套 JSON 数据中提取结构化信息，提升数据库操作的灵活性。适用于需要将存储在 JSONB 字段中的数组数据展开为多行记录进行分析或连接的场景。",
+          "url": "https://x.com/steipete/status/1970061309724283268"
+        }
+      ]
+    }
+  ]
+}
