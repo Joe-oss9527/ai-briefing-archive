@@ -1,0 +1,60 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-09-23T23:35:37Z",
+  "topics": [
+    {
+      "topic_id": "cluster-0",
+      "headline": "Agentic Coding 工具与工作流更新",
+      "bullets": [
+        {
+          "text": "Cursor集成GPT-5-Codex与Figma设计转代码：Cursor现在支持GPT-5-Codex模型，并展示了与Figma的集成，能将设计稿直接转换为代码。这为前端工程师和UI开发者提供了从设计到代码的Agentic工作流，可显著提升开发效率。",
+          "url": "https://x.com/cursor_ai/status/1970597431315144855"
+        },
+        {
+          "text": "Claude Code实用技巧：快速添加内容：Claude Code提供了一个不常使用的功能，即在Markdown中输入“#”可快速添加内容。此技巧有助于工程师在Agentic编码过程中更高效地组织和迭代代码或文档。",
+          "url": "https://x.com/trq212/status/1970578832400044448"
+        },
+        {
+          "text": "Cursor支持Grok-4-Fast模型：工程师现在可以通过OpenRouterAI在Cursor中免费激活并使用Grok-4-Fast模型。这为寻求更多编码辅助模型选择的开发者提供了新的高性能选项，可尝试集成到现有Agentic工作流中。",
+          "url": "https://x.com/OpenRouterAI/status/1970568209603424405"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster--1",
+      "headline": "AI 模型与开发工具动态：编码模型更新、性能突破及多模态应用",
+      "bullets": [
+        {
+          "text": "Cursor集成Codex与Grok-4-Fast模型：Cursor现在支持OpenAI的Codex编码优化模型，并可通过OpenRouterAI免费激活Grok-4-Fast模型。这为工程师在Cursor中进行Agentic编码提供了更多高性能模型选择，以提升开发效率。",
+          "url": "https://x.com/kevinweil/status/1970591461080260658"
+        },
+        {
+          "text": "Mojo在B200 GPU上超越Nvidia cuBLAS内核：Mojo语言仅用170行代码，在B200 GPU上实现了对Nvidia cuBLAS内核的性能超越（达到106%）。对于追求极致性能的工程师，这表明Mojo在特定计算密集型任务中具有显著优化潜力。",
+          "url": "https://x.com/steipete/status/1970575438951907820"
+        },
+        {
+          "text": "阿里通义千问Qwen3-Coder-Plus API升级：阿里通义千问宣布升级Qwen3-Coder模型，并推出`qwen3-coder-plus` API，现已在阿里云模型服务平台上线。开发者可尝试使用新API，以获得更强大的代码生成和理解能力。",
+          "url": "https://x.com/Alibaba_Qwen/status/1970582211993927774"
+        },
+        {
+          "text": "Qwen3-LiveTranslate-Flash多模态翻译模型发布：通义千问发布了“Qwen3-LiveTranslate-Flash”多模态口译模型，支持10种语言口语、18种语言理解，并具备唇语识别能力。对于需要处理多语言、多模态交互的工程师，该模型提供了新的解决方案。",
+          "url": "https://x.com/testingcatalog/status/1970590400277815524"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-1",
+      "headline": "AI Agent 开发洞察与指南",
+      "bullets": [
+        {
+          "text": "McKinsey揭示AI Agent失败的6大关键因素：McKinsey研究了50个Agentic AI项目，总结出导致失败的6个关键因素。对于AI工程师而言，理解这些因素有助于在设计和构建AI Agent时规避常见陷阱，提升项目成功率。",
+          "url": "https://x.com/Hesamation/status/1970600711345053882"
+        },
+        {
+          "text": "Google发布AI Agent构建技术指南：Google发布了一份面向初创公司的AI Agent技术构建指南。对于缺乏Agent开发经验的工程师，这份指南提供了从零开始构建AI Agent的实用框架和建议。",
+          "url": "https://x.com/Hesamation/status/1970585800325640372"
+        }
+      ]
+    }
+  ]
+}
