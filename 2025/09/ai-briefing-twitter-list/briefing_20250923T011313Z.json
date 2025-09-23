@@ -1,0 +1,114 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-09-23T01:08:53Z",
+  "topics": [
+    {
+      "topic_id": "cluster--1",
+      "headline": "Agentic Coding 进展：Vercel Agent 提升代码质量与效率",
+      "bullets": [
+        {
+          "text": "Vercel Agent 被反馈能有效捕获其他机器人遗漏的 bug，同时大幅降低误报噪音，直接提升开发团队的代码质量与审查效率，值得关注其在自动化代码审查中的应用潜力。",
+          "url": "https://x.com/rauchg/status/1970222283525636460"
+        },
+        {
+          "text": "工程师现可利用 DSPy 框架实现无需传统提示词的实体提取，Gemma 3 4b 模型在此用例中表现出色，为构建更鲁棒、更少依赖提示词工程的 LLM 应用提供了新途径。",
+          "url": "https://x.com/donvito/status/1970214589116883393"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-2",
+      "headline": "Agentic Coding 进展：Capalyze AI 支持自然语言网页抓取",
+      "bullets": [
+        {
+          "text": "Capalyze AI 现支持通过一句自然语言指令抓取任意网站内容，显著降低了传统网页爬虫的开发与维护成本，为工程师提供了更高效的数据收集与自动化工具，可用于快速原型开发或数据分析。",
+          "url": "https://x.com/hasantoxr/status/1970274535678345679"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-4",
+      "headline": "Agentic Coding 辅助：Claude Code/Codex 输入通知工具",
+      "bullets": [
+        {
+          "text": "一款简洁应用现可为 Claude Code 或 OpenAI Codex 在等待用户输入时提供通知，帮助工程师更高效地管理 AI 辅助编码会话，减少上下文切换，提升编码流畅性。",
+          "url": "https://x.com/iannuttall/status/1970220837719679455"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster--1",
+      "headline": "AI 开发实践：Google 发布提示工程大师课与 OpenRouterAI 模型更新",
+      "bullets": [
+        {
+          "text": "Google 推出一份长达 69 页的提示工程（Prompt Engineering）深度指南，为工程师系统学习和优化与大型语言模型的交互提供了权威资源，有助于提升 AI 应用的性能与可靠性。",
+          "url": "https://x.com/aaditsh/status/1970217296129106063"
+        },
+        {
+          "text": "OpenRouterAI 平台现提供更多免费模型选择，并已集成 DeepSeek 模型，同时鼓励用户参与开放数据和开源项目贡献，为工程师提供了更广泛的 LLM 访问途径与社区参与机会。",
+          "url": "https://x.com/OpenRouterAI/status/1970258042802331791"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-3",
+      "headline": "AI 开发工具：AI Studio 支持自定义系统指令",
+      "bullets": [
+        {
+          "text": "AI Studio 平台更新，允许开发者为 AI 应用配置独立的系统指令，并支持上传自定义指令文件，增强了 AI 行为的精细控制与复用性，提升了应用开发的灵活性。",
+          "url": "https://x.com/testingcatalog/status/1970233727549690134"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-1",
+      "headline": "多模态模型更新：通义千问 Qwen-Image-Edit-2509 发布",
+      "bullets": [
+        {
+          "text": "通义千问推出全新的 Qwen-Image-Edit-2509 模型，具备一次编辑多张图片的能力，显著提升了人物面孔与文字的一致性，并自带原生 ControlNet 支持，为图像生成与编辑任务带来更强大的工具。",
+          "url": "https://x.com/dotey/status/1970218767574802854"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-3",
+      "headline": "AI 训练洞察：DeepSeek 借鉴游戏训练提升推理能力",
+      "bullets": [
+        {
+          "text": "DeepSeek 通过模拟视频游戏训练方式，有效提升了 AI 模型的推理能力，这一“节俭”方法为优化大型 AI 模型训练策略提供了新的工程启发，值得研究者与工程师借鉴。",
+          "url": "https://x.com/aaditsh/status/1970234345777754350"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-1",
+      "headline": "战略与风险信号：Sam Altman 警示 AI 算力严重短缺",
+      "bullets": [
+        {
+          "text": "OpenAI 首席执行官 Sam Altman 指出，整个 AI 行业正面临严重的算力不足问题，这种短缺可能长期存在，对工程师在规划 AI 项目和基础设施时需重点考虑资源限制与优化策略。",
+          "url": "https://x.com/dotey/status/1970223765377442227"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-3",
+      "headline": "战略与风险信号：NVIDIA 与 OpenAI 达成百亿级数据中心合作",
+      "bullets": [
+        {
+          "text": "NVIDIA 与 OpenAI 宣布达成一项价值 1000 亿美元的合作，旨在建设 10 吉瓦的 AI 数据中心，预示着未来 AI 基础设施的巨大投入，对工程师而言意味着长期算力供应的潜在改善，但短期内仍需关注资源分配。",
+          "url": "https://x.com/aaditsh/status/1970247598327083267"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-1",
+      "headline": "开发者福利：Cloudflare 推出学生免费套餐",
+      "bullets": [
+        {
+          "text": "Cloudflare 为符合条件的美国学生（18岁以上，拥有 .edu 邮箱）提供免费的付费开发者功能，为学生工程师提供了接触和使用专业级网络基础设施的宝贵机会，有助于早期职业发展。",
+          "url": "https://x.com/geekbb/status/1970286760530993302"
+        }
+      ]
+    }
+  ]
+}
