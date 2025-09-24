@@ -1,0 +1,24 @@
+{
+  "title": "AI 快讯 · Hacker News",
+  "date": "2025-09-24T11:09:32.514645Z",
+  "topics": [
+    {
+      "topic_id": "cluster--1",
+      "headline": "【Strategic/Risk】关注AI代理API管理、深度伪造检测新进展及MCP认证安全漏洞。",
+      "bullets": [
+        {
+          "text": "Klavis AI推出开源MCP服务器Strata，旨在解决AI代理使用大量API工具时的复杂性。开发者可利用Strata简化AI代理的API集成与管理，提升代理处理多工具场景的效率，同时关注其开源社区支持及实际部署的性能表现。",
+          "url": "https://www.klavis.ai/"
+        },
+        {
+          "text": "MCP认证缺陷被发现可导致Claude Code、Gemini CLI等AI产品中的远程代码执行（RCE）漏洞。评估并修补AI代理或依赖MCP认证的系统中潜在的安全漏洞，尤其关注认证机制的健壮性，并及时关注官方补丁和安全公告进行系统审计。",
+          "url": "https://verialabs.com/blog/from-mcp-to-shell/"
+        },
+        {
+          "text": "OpenFake作为一个开放数据集和平台，致力于实现大规模深度伪造检测。工程师可利用OpenFake数据集训练和评估深度伪造检测模型，或集成其平台能力以增强内容真实性验证，同时评估数据集的覆盖范围和平台检测的准确性。",
+          "url": "https://arxiv.org/abs/2509.09495"
+        }
+      ]
+    }
+  ]
+}
