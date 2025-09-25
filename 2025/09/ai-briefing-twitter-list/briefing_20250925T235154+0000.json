@@ -1,0 +1,24 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-09-25T23:51:54.133427Z",
+  "topics": [
+    {
+      "topic_id": "cluster--1",
+      "headline": "【Strategic/Risk】AI辅助编程工具及企业级AI平台能力更新，提升开发效率与管理安全性。",
+      "bullets": [
+        {
+          "text": "GitHub Copilot CLI已发布，支持通过`npm install -g @github/copilot`安装。使用前请确保拥有Copilot Pro、Pro+、Business或Enterprise计划。",
+          "url": "https://x.com/dotey/status/1971313052747546873"
+        },
+        {
+          "text": "ChatGPT for Business新增共享项目、增强型连接器及RBAC控制功能。企业用户应利用RBAC控制提升AI应用的安全与合规性管理。",
+          "url": "https://x.com/testingcatalog/status/1971301986449621412"
+        },
+        {
+          "text": "OpenAI已构建出能自主发现新想法的研究员。此进展预示AI在自主代理和研究自动化方面的潜力，工程团队可关注其未来产品化方向。",
+          "url": "https://x.com/aaditsh/status/1971314218298376562"
+        }
+      ]
+    }
+  ]
+}
