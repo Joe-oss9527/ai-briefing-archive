@@ -1,0 +1,46 @@
+{
+  "title": "AI 快讯 · Hacker News",
+  "date": "2025-09-26T23:59:42.634800Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "Apple已开源SimpleFold机器学习项目，提供蛋白质折叠模型及可执行代码。工程师可直接访问GitHub仓库，下载并部署模型，用于蛋白质结构预测或作为研究基线，但需关注其在特定生物系统或复杂折叠场景下的性能与适用性。",
+          "url": "https://github.com/apple/ml-simplefold"
+        },
+        {
+          "text": "有研究表明蛋白质折叠过程可能比传统认知更简单。工程师在开发相关算法或模型时，可参考其理论洞察，探索更高效或简化的计算方法，但具体工程实现仍需结合实际数据和计算资源进行验证。",
+          "url": "https://arxiv.org/abs/2509.18480"
+        },
+        {
+          "text": "DeepFabric能够大规模生成高质量合成数据集，可用于解决ML项目中的数据稀缺问题，加速模型开发与测试周期。",
+          "url": "https://lukehinds.github.io/deepfabric/"
+        },
+        {
+          "text": "编码Agent的性能瓶颈已明确为上下文处理能力。在开发或优化Agent时，应优先设计高效的上下文管理机制，以提升其代码生成和理解的准确性与效率。",
+          "url": "https://runnercode.com/blog/context-is-the-bottleneck-for-coding-agents-now"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster--1",
+      "headline": "【Strategic/Risk】关注Active Directory漏洞利用新工具、Unitree机器人舰队接管漏洞及浏览器指纹识别库",
+      "bullets": [
+        {
+          "text": "GriffonAD是一款新工具，专为利用Active Directory中的错误配置而设计。安全团队应利用此工具评估自身AD配置的潜在漏洞，并进行防御加固或模拟攻击。",
+          "url": "https://github.com/shellinvictus/GriffonAD"
+        },
+        {
+          "text": "存在一个漏洞，允许攻击者接管Unitree机器人舰队。拥有Unitree机器人的组织需立即检查并修补相关漏洞，以防止潜在的物理世界风险。",
+          "url": "https://spectrum.ieee.org/unitree-robot-exploit"
+        },
+        {
+          "text": "FingerprinterJS是一个无依赖的小型库，能通过Canvas、WebGL、音频、字体、userAgent和屏幕信息等信号创建浏览器指纹。开发者可集成此库用于用户识别、反欺诈或个性化服务，但需注意用户隐私合规性。",
+          "url": "https://github.com/Lorenzo-Coslado/fingerprinter-js"
+        }
+      ]
+    }
+  ]
+}
