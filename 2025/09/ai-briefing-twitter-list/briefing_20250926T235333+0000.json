@@ -1,0 +1,46 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-09-26T23:53:33.137978Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "Google发布AI数字人生成服务，用户可通过输入脚本和选择数字人快速生成AI数字人。工程师可访问 `vids.new` 探索其能力，但需注意当前语言支持有限（不支持中文）且数字人模型仅限内置的12种。",
+          "url": "https://x.com/dotey/status/1971675411592761721"
+        },
+        {
+          "text": "Nano Banana提示词可模拟Cosplay会场拍摄场景，并支持二次元对象与Coser风格匹配及海报对比。工程师可利用此提示词优化AI图像生成，以实现更真实的Cosplay内容创作。",
+          "url": "https://x.com/dotey/status/1971641776667771341"
+        },
+        {
+          "text": "Aadit Sheth分享了免费构建自定义ChatGPT的教程。工程师可参考此教程，利用现有资源快速搭建私有AI助手，降低开发成本。需自行验证教程的可靠性与实际效果。",
+          "url": "https://x.com/aaditsh/status/1971673716229820773"
+        },
+        {
+          "text": "Qwen 3 Coder Plus编码模型已在OpenRouterAI平台上线。开发者可通过OpenRouterAI接口集成此模型，用于Agentic Coding任务，提升代码生成与理解能力。需关注其API使用成本及性能表现。",
+          "url": "https://x.com/OpenRouterAI/status/1971676397644190140"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster--1",
+      "headline": "AI编程工具Codex与code-supernova功能升级，Freepik Kling 2.5免费开放",
+      "bullets": [
+        {
+          "text": "Codex 0.42.0版本已发布，新增改进的`/status`命令和通过`CODEX_SECURE_MODE=1`激活的安全模式。开发者可利用`/status`命令获取更详细的系统状态，并通过设置环境变量启用安全模式，提升开发环境安全性。升级前请查阅官方文档了解具体变更和兼容性要求。",
+          "url": "https://x.com/iannuttall/status/1971673239845060723"
+        },
+        {
+          "text": "code-supernova已升级，支持1M上下文窗口。工程师在处理大型代码库或复杂逻辑时，可利用其扩展的上下文窗口，提升AI辅助编程的理解和生成能力。建议验证1M上下文窗口在实际复杂场景下的性能与稳定性。",
+          "url": "https://x.com/kregenrek/status/1971670974677545378"
+        },
+        {
+          "text": "Freepik发布Kling 2.5并向所有用户免费开放，其功能包括“电影级摄像机模式”。视频内容创作者和开发者可免费试用Kling 2.5，探索其电影级摄像机模式，用于生成高质量视频内容。建议评估新功能在实际项目中的适用性和效果。",
+          "url": "https://x.com/hasantoxr/status/1971703944033587327"
+        }
+      ]
+    }
+  ]
+}
