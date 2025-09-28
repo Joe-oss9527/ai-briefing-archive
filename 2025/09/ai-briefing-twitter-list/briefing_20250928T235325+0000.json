@@ -1,0 +1,48 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-09-28T23:53:25.958420Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "Factory AI提供4000万免费token供“droid”AI代理使用，建议从“spec mode”开始探索其代码生成和重构能力。工程师可利用此资源进行功能测试和流程优化，但需关注token消耗及“spec mode”的适用场景。",
+          "url": "https://x.com/bentossell/status/1972380998102122999"
+        },
+        {
+          "text": "针对复杂代码重构，Factory AI支持多智能体工作流：主代理（使用“spec mode”）负责实现，子代理验证各组件。工程师可借鉴此模式，设计分工明确的AI协作流程，提升重构效率和质量，同时需明确代理间职责和验证机制。",
+          "url": "https://x.com/bentossell/status/1972359880678998437"
+        },
+        {
+          "text": "Kimi推出“OK Computer”代理模式，可在虚拟计算机上自主构建网站、移动应用和演示文稿。工程师可探索此模式，加速原型开发或自动化特定任务，但需评估其在生产环境中的适用性、可控性及生成内容的质量。",
+          "url": "https://x.com/CodeByPoonam/status/1972358469929017773"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-1",
+      "headline": "Cursor Learn 平台已发布，并提供官方视频教程，助力工程师快速上手。",
+      "bullets": [
+        {
+          "text": "Cursor Learn 现已正式发布，工程师可关注并探索其提供的学习内容。",
+          "url": "https://x.com/kregenrek/status/1972428898463002923"
+        },
+        {
+          "text": "官方已提供 @leerob 制作的 Cursor Learn 视频教程，建议通过这些资源快速上手或深入了解平台功能。",
+          "url": "https://x.com/kregenrek/status/1972428898463002923"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-4",
+      "headline": "项目语言迁移：应对大规模文件转换与编译验证的工程挑战",
+      "bullets": [
+        {
+          "text": "在项目语言迁移过程中，涉及数百个文件的转换工作，建议利用自动化工具辅助代码转换，并建立严格的编译验证机制，以确保迁移后代码的功能完整性与稳定性。",
+          "url": "https://x.com/dotey/status/1972373955597267056"
+        }
+      ]
+    }
+  ]
+}
