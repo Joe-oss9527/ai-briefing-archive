@@ -1,0 +1,46 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-10-10T01:39:50.054717Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "Anthropic已正式发布Claude Code插件，旨在增强其Agentic编程能力，为开发者提供新的工具集。",
+          "url": "https://www.anthropic.com/news/claude-code-plugins"
+        },
+        {
+          "text": "要启用Claude Code插件，工程师需首先运行`claude update`更新客户端，随后执行`/plugin marketplace add anthropics/claude-code`命令进行添加。请注意，此安装步骤信息来源于非官方渠道。",
+          "url": "https://x.com/donvito/status/1976347276617580625"
+        },
+        {
+          "text": "评估Tugtainer作为Watchtower的Docker容器自动更新替代方案，但需注意其内存占用约为Watchtower的五倍，在资源规划时务必考虑。",
+          "url": "https://x.com/geekbb/status/1976459108749644274"
+        },
+        {
+          "text": "LangGraph推出免费课程“Deep Research with LangGraph”，推荐给对构建复杂Agent（如DeepResearch）感兴趣的开发者，以提升Agentic Coding能力。",
+          "url": "https://x.com/dotey/status/1976409472299040981"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster--1",
+      "headline": "【Strategic/Risk】Next.js 应用现可部署至 ChatGPT，同时提供 AI 模型优化实践与 Droid Core 新基线。",
+      "bullets": [
+        {
+          "text": "Next.js 应用现已支持部署至 ChatGPT，工程师可利用此能力将现有或新开发的 Next.js 应用作为 ChatGPT 的扩展，以实现更丰富的交互功能；部署时需关注具体流程和兼容性。",
+          "url": "https://x.com/rauchg/status/1976444029652160909"
+        },
+        {
+          "text": "为优化 Sonnet 4.5 等 AI 模型长时间运行（如6-8小时过夜）的稳定性，建议通过钩子（hooks）自动化代码检查和测试流程；实施时需根据模型和项目特性进行定制化配置。",
+          "url": "https://x.com/trq212/status/1976369909132370190"
+        },
+        {
+          "text": "Factory 发布了 Droid Core，提供 Droid 的尖端性能和最具成本效益的选项；使用 Droid 的团队可评估将其作为新基线，以提升性能并优化成本，同时需考虑与现有系统的集成。",
+          "url": "https://x.com/bentossell/status/1976420776984371508"
+        }
+      ]
+    }
+  ]
+}
