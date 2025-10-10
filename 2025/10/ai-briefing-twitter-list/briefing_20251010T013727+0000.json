@@ -1,0 +1,76 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-10-10T02:00:00Z",
+  "topics": [
+    {
+      "topic_id": "cluster-0",
+      "headline": "Claude Code 推出插件功能，增强 AI 辅助编程能力",
+      "bullets": [
+        {
+          "text": "Anthropic 为 Claude Code 推出插件功能，允许开发者构建自定义插件，扩展其编程辅助能力。工程师可通过 `claude update` 更新 CLI，并使用 `/plugin marketplace add anthropics/claude-code` 命令添加官方插件，以集成外部工具或定制工作流。",
+          "url": "https://www.anthropic.com/news/claude-code-plugins"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-3",
+      "headline": "OpenAI AgentKit 大幅提升 AI Agent 构建效率",
+      "bullets": [
+        {
+          "text": "OpenAI AgentKit 在 DevDay 2025 发布，显著加速 AI Agent 构建流程，将原本需要两周的工作量缩短至一小时。这为工程师快速原型开发和部署 AI 代理提供了高效工具。",
+          "url": "https://x.com/hasantoxr/status/1976346620359999585"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster--1",
+      "headline": "综合 AI 与开发工具更新",
+      "bullets": [
+        {
+          "text": "Next.js 应用现可部署至 ChatGPT App：开发者现在可以将 Next.js 应用程序部署到 ChatGPT App。这一集成简化了基于 Next.js 的应用与 ChatGPT 生态的结合，为工程师提供了新的分发和交互渠道。",
+          "url": "https://x.com/rauchg/status/1976444029652160909"
+        },
+        {
+          "text": "Claude Sonnet 4.5 运行长时间任务的实用技巧：针对 Claude Sonnet 4.5，有工程师分享了通过使用 Hooks（例如用于 linting 和 testing）使其能够稳定运行 6-8 小时长时间任务的技巧。这对于需要 AI 代理执行复杂或耗时编程任务的工程师提供了可操作的优化思路。",
+          "url": "https://x.com/trq212/status/1976369909132370190"
+        },
+        {
+          "text": "V0 助力快速生成可重用 UI 组件：V0 平台展示了通过 AI 快速生成带有流畅过渡效果的 CTA（Call to Action）UI 组件的能力，并提供可混编（remixable）示例。工程师可利用 V0 快速迭代和生成前端 UI 元素，提升开发效率。",
+          "url": "https://x.com/v0/status/1976385426727547139"
+        },
+        {
+          "text": "MIT 推出免费 AI 课程，降低学习门槛：麻省理工学院（MIT）提供免费的 AI 课程，旨在降低 AI 教育成本和时间门槛。对于希望系统学习 AI 知识的工程师，这是一个高价值的免费资源。",
+          "url": "https://x.com/hasantoxr/status/1976385927334461819"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-1",
+      "headline": "AI Agent 开发学习资源与 Docker 容器管理工具评估",
+      "bullets": [
+        {
+          "text": "LangGraph 免费课程助力复杂 AI Agent 开发：针对对 DeepResearch 等复杂 AI Agent 感兴趣的工程师，LangGraph 提供了免费课程《Deep Research with LangGraph》。该课程循序渐进，从单 Agent 到多 Agent 流程，有助于工程师掌握构建复杂 AI 代理的实践方法。",
+          "url": "https://x.com/dotey/status/1976409472299040981"
+        },
+        {
+          "text": "Tugtainer 作为 Docker 容器自动更新工具的评估：Tugtainer 被提出作为 Watchtower 的替代品，用于 Docker 容器的自动更新，其 UI 界面友好。然而，初步测试显示其内存占用比 Watchtower 高出约五倍（51.45 MB vs 10.2 MB）。工程师在选择时需权衡易用性与资源消耗。",
+          "url": "https://x.com/geekbb/status/1976459108749644274"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-2",
+      "headline": "Gemini Enterprise 定价与 Google AI 平台规模",
+      "bullets": [
+        {
+          "text": "Gemini Enterprise 定价模式独立于 Google Workspace：Gemini Enterprise 的定价将作为独立订阅服务推出，不与 Google Workspace 捆绑。这为企业客户在部署和管理 Gemini 服务时提供了更大的灵活性，工程师在规划 AI 解决方案时可考虑其独立的成本结构。",
+          "url": "https://x.com/testingcatalog/status/1976381559772229723"
+        },
+        {
+          "text": "Google 大规模处理 AI Tokens，展现平台能力：Google 每月处理超过 1.3 x 10^15 个 tokens，显示其在 AI 基础设施和模型处理能力上的巨大规模。这一数据反映了 Google 在 AI 领域的投入和平台承载能力，对评估其 AI 服务稳定性与扩展性有参考价值。",
+          "url": "https://x.com/OfficialLoganK/status/1976359039581012127"
+        }
+      ]
+    }
+  ]
+}
