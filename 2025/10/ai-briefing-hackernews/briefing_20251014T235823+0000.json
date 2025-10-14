@@ -1,0 +1,34 @@
+{
+  "title": "AI 快讯 · Hacker News",
+  "date": "2025-10-14T23:58:23.260434Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "Wispbit通过扫描代码模式自动生成规则，帮助维护代码库标准；建议引入以自动化代码规范检查，确保团队代码风格一致性，但需评估其与现有Linter工具的兼容性及迁移成本。",
+          "url": "https://wispbit.com/"
+        },
+        {
+          "text": "Metorial平台利用MCP连接AI代理与外部工具及数据；可利用其构建更强大的AI代理应用，实现AI与现有系统的数据和功能交互，但需熟悉MCP协议及平台集成方式，并关注数据安全与性能。",
+          "url": "https://github.com/metorial/metorial"
+        },
+        {
+          "text": "Pyrefly是一个用Rust实现的Python类型检查器和语言服务器；建议Python项目集成以获得更快的类型检查和更稳定的语言服务体验，但需关注其对现有Python生态工具链的兼容性及社区支持。",
+          "url": "https://pyrefly.org/?featured_on=talkpython"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster--1",
+      "headline": "【Strategic/Risk】美国制裁柬埔寨企业，提示供应链及合规风险",
+      "bullets": [
+        {
+          "text": "美国已对一家柬埔寨企业实施制裁，理由是其涉嫌参与“杀猪盘”诈骗。工程团队应立即审查现有供应链和合作伙伴关系，特别是涉及东南亚地区的业务，以识别并规避潜在的合规风险和法律责任。持续关注美国财政部制裁名单更新，确保业务操作符合国际贸易法规。",
+          "url": "https://www.wsj.com/business/u-s-sanctions-cambodian-conglomerate-citing-role-in-pig-butchering-scams-0cf2e0ff"
+        }
+      ]
+    }
+  ]
+}
