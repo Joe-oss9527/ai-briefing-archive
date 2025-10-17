@@ -1,0 +1,46 @@
+{
+  "title": "AI 快讯 · Hacker News",
+  "date": "2025-10-17T06:00:48.752929Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "利用Inkeep的TypeScript SDK构建AI聊天助手或AI工作流，加速AI应用开发与集成。",
+          "url": "https://github.com/inkeep/agents"
+        },
+        {
+          "text": "Inkeep支持MCP、Chat UI、Vercel AI SDK `useChat` hook及Agent2Agent (A2A)等开放协议，确保AI应用互操作性与多智能体协作能力。",
+          "url": "https://github.com/inkeep/agents"
+        },
+        {
+          "text": "可通过Vercel或Docker部署Inkeep，并遵循公平代码许可证，需评估许可证条款以确保合规性。",
+          "url": "https://github.com/inkeep/agents"
+        },
+        {
+          "text": "Cognition AI发布SWE-Grep和SWE-Grep-Mini，利用强化学习实现多轮上下文快速检索。工程师可集成这些工具以提升AI代理在复杂代码库中的上下文理解效率，优化Agentic Coding工作流，但需评估其在特定项目中的适用性及集成成本。",
+          "url": "https://cognition.ai/blog/swe-grep"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-0",
+      "headline": "【Strategic/Risk】关注Windows 11 localhost中断、Liquibase许可证合规及JavaScript可信度提升",
+      "bullets": [
+        {
+          "text": "Windows 11更新可能导致localhost功能异常，影响开发环境。若遇到此问题，可尝试卸载相关更新作为临时解决方案，并关注官方修复进展。",
+          "url": "https://www.theregister.com/2025/10/16/windows_11_update_localhost/"
+        },
+        {
+          "text": "Liquibase在许可证变更后仍宣称“开源”，可能存在合规风险。请审查项目对Liquibase的依赖，并核实其当前许可证条款，以避免潜在法律问题。",
+          "url": "https://github.com/liquibase/liquibase/issues/7374"
+        },
+        {
+          "text": "Cloudflare发布了提升Web上JavaScript可信度的指南。建议参考其最佳实践，以增强Web应用的安全性和用户信任。",
+          "url": "https://blog.cloudflare.com/improving_the_trustworthiness_of_javascript_on_the_web/"
+        }
+      ]
+    }
+  ]
+}
