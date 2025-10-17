@@ -1,0 +1,38 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-10-17T06:15:18.523080Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "Windsurf发布了SWE-grep和SWE-grep-mini模型，专为加速上下文检索设计。工程师可在Windsurf平台上利用这些模型，显著提升Agentic Coding场景下的上下文检索效率，关注其集成与性能表现。",
+          "url": "https://x.com/testingcatalog/status/1978942607729348738"
+        },
+        {
+          "text": "Cline for CLI已发布，作为开源且可脚本化的工具。可通过`npm i -g cline`全局安装，并将其集成到自动化脚本或Agentic工作流中，以简化命令行操作，关注其功能集与社区支持。",
+          "url": "https://x.com/cline/status/1979015208052937202"
+        },
+        {
+          "text": "一份免费的115页Arxiv书籍，全面涵盖LLM微调所需的所有理论。工程师可利用此资源深入学习LLM微调的理论基础，提升模型优化能力，需结合实践进行应用。",
+          "url": "https://x.com/Hesamation/status/1978976030070132752"
+        },
+        {
+          "text": "OpenAI推出新模式，允许客户使用自己的ChatGPT Tokens支付应用AI功能费用。开发者可集成此模式，将AI功能Token成本转移给用户，显著降低自身运营开销。实施时需引导用户登录并授权使用其Tokens。",
+          "url": "https://x.com/dotey/status/1978947127943348444"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-0",
+      "headline": "【Strategic/Risk】X平台将支持链接，改变此前对含链接帖子的降权策略。",
+      "bullets": [
+        {
+          "text": "X平台将引入链接支持，这标志着与此前含链接帖子会被降权的历史策略的重大转变。工程团队应重新评估内容分发策略，准备利用这一新能力，但需密切关注官方发布以获取具体实施细节和潜在影响。",
+          "url": "https://x.com/robj3d3/status/1978976993807884328"
+        }
+      ]
+    }
+  ]
+}
