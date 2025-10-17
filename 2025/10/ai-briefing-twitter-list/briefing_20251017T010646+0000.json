@@ -1,0 +1,24 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-10-17T01:06:46.185765Z",
+  "topics": [
+    {
+      "topic_id": "cluster-0",
+      "headline": "【Strategic/Risk】AI开发工具更新：Windsurf发布高效检索模型，Manus AI代理升级，OpenAI调整Token计费模式",
+      "bullets": [
+        {
+          "text": "Windsurf发布了SWE-grep和SWE-grep-mini模型，旨在加速上下文检索。开发者可利用这些模型在Windsurf平台上实现更快的代码或文档上下文检索，提升开发效率，但需在Windsurf平台集成使用。",
+          "url": "https://x.com/testingcatalog/status/1978942607729348738"
+        },
+        {
+          "text": "OpenAI调整了其AI功能Token消耗模式，允许开发者应用中由用户登录ChatGPT账号后，直接使用用户自己的Token。开发者可籍此显著降低自身AI功能运营成本，同时将Token消耗责任转移给用户，但需确保用户体验流程顺畅，且用户需拥有ChatGPT账号并登录。",
+          "url": "https://x.com/dotey/status/1978947127943348444"
+        },
+        {
+          "text": "Manus AI代理已升级至1.5版本，核心改进包括无限上下文处理能力、新增功能及执行速度提升。建议考虑将Manus AI代理升级至1.5版本，以利用其增强的上下文理解和处理能力，优化复杂任务的自动化执行效率，但需评估新功能与现有系统的兼容性及迁移成本。",
+          "url": "https://x.com/testingcatalog/status/1978907687069864404"
+        }
+      ]
+    }
+  ]
+}
