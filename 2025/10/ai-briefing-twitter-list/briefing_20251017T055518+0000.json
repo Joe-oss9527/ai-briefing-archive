@@ -1,0 +1,38 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-10-17T05:55:18.963735Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "OpenAI推出客户自付Token模式，开发者可引导用户登录ChatGPT账号使用AI功能，从而免除应用侧Token费用。",
+          "url": "https://x.com/dotey/status/1978947127943348444"
+        },
+        {
+          "text": "Manus智能体通过将超长上下文转化为实时连接的知识库，实现无限上下文处理。工程师可借鉴此机制，设计处理长文本或持续对话的AI系统。",
+          "url": "https://x.com/dontbesilent12/status/1979051748342816900"
+        },
+        {
+          "text": "Vmail支持GitHub Action自动化部署。开发者可集成GitHub Action到CI/CD流程中，实现Vmail项目的自动构建与部署。",
+          "url": "https://x.com/geekbb/status/1978996302584152283"
+        },
+        {
+          "text": "SWE-grep和SWE-grep-mini模型专为加速上下文检索设计。在Agentic Coding等需要快速上下文获取的LLM工程场景中，可考虑集成这些模型以提升效率。需评估其在特定应用中的实际性能与兼容性。",
+          "url": "https://x.com/testingcatalog/status/1978942607729348738"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-0",
+      "headline": "【Strategic/Risk】X平台链接策略或将调整，需关注内容分发与自动化工具适配",
+      "bullets": [
+        {
+          "text": "X平台正引入链接功能，这与此前链接内容会被降权的历史策略形成对比。工程师应密切关注官方公告，评估现有内容发布工具和自动化脚本是否需要调整，以适应新的链接处理机制。目前信息来源非官方，建议等待X平台正式发布相关策略或API更新。",
+          "url": "https://x.com/robj3d3/status/1978976993807884328"
+        }
+      ]
+    }
+  ]
+}
