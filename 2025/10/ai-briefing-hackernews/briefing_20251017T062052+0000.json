@@ -1,0 +1,38 @@
+{
+  "title": "AI 快讯 · Hacker News",
+  "date": "2025-10-17T06:20:52.204670Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "Inkeep提供了一个代理构建器，支持通过TypeScript SDK在代码中开发AI聊天助手或工作流，并能在可视化界面进行编辑。开发者可利用其代码与拖放式可视化编辑器之间的双向同步能力，通过`inkeep push`发布代理，并在可视化构建器中编辑后，再通过`inkeep pull`同步回代码进行迭代，适用于需要灵活切换代码与可视化编辑模式的AI代理开发。",
+          "url": "https://github.com/inkeep/agents"
+        },
+        {
+          "text": "SWE-Grep和SWE-Grep-Mini是基于强化学习（RL）的工具，可用于快速进行多轮代码上下文检索，提升AI辅助编程或代码理解的效率，适用于需要高效、智能代码上下文分析的场景。",
+          "url": "https://cognition.ai/blog/swe-grep"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-1",
+      "headline": "【Strategic/Risk】工程提示：关注M4 Linux平台支持、Windows 11 localhost故障及Web JS安全实践",
+      "bullets": [
+        {
+          "text": "Asahi Linux文档已详细说明Apple M4系列芯片的特性支持。开发者应查阅此文档，以了解M4平台在Linux环境下的硬件兼容性及功能限制，指导驱动开发或应用适配，尤其关注特定外设或高级功能的当前支持状态。",
+          "url": "https://asahilinux.org/docs/platform/feature-support/m4/"
+        },
+        {
+          "text": "Windows 11某次更新导致localhost功能异常。遇到本地开发环境连接问题时，应检查Windows更新历史，并考虑执行大规模卸载更新的临时规避措施，同时密切关注官方补丁或社区解决方案。",
+          "url": "https://www.theregister.com/2025/10/16/windows_11_update_localhost/"
+        },
+        {
+          "text": "Cloudflare发布了关于提升Web JavaScript可信度的文章。Web开发者和安全工程师应参考该文章，实施最佳实践，以增强客户端脚本的安全性与用户信任，重点关注内容安全策略(CSP)、子资源完整性(SRI)等机制的应用。",
+          "url": "https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/"
+        }
+      ]
+    }
+  ]
+}
