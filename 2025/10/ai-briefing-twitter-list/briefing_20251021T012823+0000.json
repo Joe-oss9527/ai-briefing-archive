@@ -1,0 +1,42 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-10-21T01:28:23.008236Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "Claude Code现支持配置GLM 4.6模型，工程师可通过设置环境变量ANTHROPIC_AUTH_TOKEN和ANTHROPIC_BASE_URL为https://api.z.ai/api/anthropic来启用该模型，以扩展AI编码能力。",
+          "url": "https://x.com/dotey/status/1980384391785263607"
+        },
+        {
+          "text": "qodercli工具提供便捷安装方式，工程师可运行`curl -fsSL https://qoder.com/install | bash`进行安装，并执行`qodercli --yolo`为新用户获取1000积分。",
+          "url": "https://x.com/aiwarts/status/1980438456661934433"
+        },
+        {
+          "text": "BibiGPT视频总结插件已通过火狐浏览器审核，工程师可访问https://addons.mozilla.org获取并安装，以提升视频内容处理效率。",
+          "url": "https://x.com/Jimmy_JingLv/status/1980438919172038679"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-1",
+      "headline": "【Strategic/Risk】关注AI模型新进展与服务稳定性：OpenRouterAI推出复合图像模型，AnthrogenBio发布蛋白质语言模型；v0服务出现间歇性不稳定。",
+      "bullets": [
+        {
+          "text": "OpenRouterAI推出GPT-5 Image和Image Mini两款复合模型。工程师可关注OpenRouterAI平台，评估其在图像生成和处理任务中的应用潜力，并了解其具体能力与接口。",
+          "url": "https://x.com/OpenRouterAI/status/1980383509186589101"
+        },
+        {
+          "text": "AnthrogenBio团队发布102B参数蛋白质语言模型Odyssey。生物信息学或药物研发领域的工程师可探索其在蛋白质序列分析、结构预测等方面的应用，并评估其在特定生物学任务上的性能。",
+          "url": "https://x.com/paulg/status/1980383093996601667"
+        },
+        {
+          "text": "v0服务正经历间歇性不稳定，团队正在积极解决。依赖v0服务的团队应检查系统状态，准备应对潜在中断，并持续关注v0团队的官方更新。",
+          "url": "https://x.com/v0/status/1980407308346925145"
+        }
+      ]
+    }
+  ]
+}
