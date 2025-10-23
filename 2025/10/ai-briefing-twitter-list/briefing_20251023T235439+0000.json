@@ -1,0 +1,46 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-10-23T23:54:39.339769Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "GoogleAIStudio推出Annotation Mode，将应用优化转变为对话式交互。工程师可利用此模式，通过对话快速迭代和优化AI应用，提升开发效率；需关注其支持的优化类型和集成方式。",
+          "url": "https://x.com/_philschmid/status/1981479000372285516"
+        },
+        {
+          "text": "Google正为NotebookLM开发新的Data Tables构件，此前已发现Infographic构件。工程师和数据分析师可期待利用这些构件增强NotebookLM的数据处理、可视化和分析能力；需留意其发布时间及具体功能细节，以便规划数据工作流集成。",
+          "url": "https://x.com/testingcatalog/status/1981498742701511059"
+        },
+        {
+          "text": "Claude Code和Codex等AI编码代理能够交付高质量代码。工程师可考虑将这些AI编码代理集成到开发流程中，辅助代码生成、优化和审查，提高开发效率和代码质量；需评估其在特定项目和语言上的表现，并结合人工审查确保代码安全性和可维护性。",
+          "url": "https://x.com/dotey/status/1981480124244697174"
+        },
+        {
+          "text": "Factory CLI现已支持混合模型运行。工程师可利用此功能，使用SOTA模型构建规范，然后选择更具成本效益的模型进行实际执行，从而在保证性能的同时优化资源消耗。建议查阅最新文档了解具体配置方法。",
+          "url": "https://x.com/bentossell/status/1981458461780009178"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-3",
+      "headline": "【Strategic/Risk】新增AI开发工具与企业级AI能力，提升代码辅助、知识集成及模型标注效率。",
+      "bullets": [
+        {
+          "text": "OpenAI Codex alpha版本现已通过npm全局安装（`npm install -g @openai/codex@alpha`）。工程师可利用此工具进行AI辅助编程，但需注意alpha版本可能存在的稳定性问题。",
+          "url": "https://x.com/steipete/status/1981475917718516105"
+        },
+        {
+          "text": "ChatGPT商业版、企业版及教育版账户现已推出“公司知识”功能。企业可集成内部知识库，以提升AI代理在特定业务场景下的响应准确性和效率，同时需关注数据隐私与合规性。",
+          "url": "https://x.com/testingcatalog/status/1981442691268268393"
+        },
+        {
+          "text": "Google AI Studio发布了标注（annotations）功能。开发者可利用此功能优化AI模型的数据标注流程，从而提升模型训练质量，建议探索其具体标注能力和集成方式。",
+          "url": "https://x.com/testingcatalog/status/1981482673341092334"
+        }
+      ]
+    }
+  ]
+}
