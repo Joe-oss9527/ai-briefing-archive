@@ -1,0 +1,38 @@
+{
+  "title": "AI 快讯 · Hacker News",
+  "date": "2025-10-23T00:02:40.236946Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "Ovi项目提供双骨干跨模态融合模型，支持音视频内容生成。工程师可利用其开源实现，在AI应用中集成高效的音视频生成能力，尤其适用于Agentic Coding场景。",
+          "url": "https://github.com/character-ai/Ovi"
+        },
+        {
+          "text": "Web API新增`Element: setHTML()`方法，旨在提供更安全的HTML内容设置机制。建议开发者优先使用此方法替代`innerHTML`，以有效防范跨站脚本（XSS）攻击，提升Web应用安全性。",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-1",
+      "headline": "【Strategic/Risk】关注 Django 6.0 Beta、SourceFS 提速 Android 构建及 Rust MinIO 替代方案，优化开发与基础设施效率。",
+      "bullets": [
+        {
+          "text": "Django 6.0 beta 1 已发布，建议使用 Django 的团队提前规划未来升级，并开始测试现有项目与新版本的兼容性；此为测试版本，不建议用于生产环境。",
+          "url": "https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/"
+        },
+        {
+          "text": "SourceFS 虚拟文件系统可将 Android 构建时间从 2 小时以上缩短至 15 分钟，Android 开发团队可考虑引入以显著提升 CI/CD 效率和开发者生产力，但需评估其集成成本及兼容性。",
+          "url": "https://www.source.dev/journal/sourcefs"
+        },
+        {
+          "text": "GitHub 上提供一个基于 Rust 的 MinIO 替代方案，鉴于 MinIO 分发策略变化，基础设施团队可评估此方案作为对象存储选项，但需对其成熟度、性能、社区支持及迁移成本进行详细调研。",
+          "url": "https://github.com/rustfs/rustfs"
+        }
+      ]
+    }
+  ]
+}
