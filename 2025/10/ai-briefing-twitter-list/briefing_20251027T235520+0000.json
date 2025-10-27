@@ -1,0 +1,38 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-10-27T23:55:20.439766Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "可利用Embeddings构建端侧RAG系统，实现私有、快速且支持离线运行的AI应用，提升用户数据安全与体验；需关注模型大小与设备性能匹配，优化Embeddings存储与检索效率。",
+          "url": "https://x.com/googleaidevs/status/1982896747782234546"
+        },
+        {
+          "text": "Claude Code v2.0.28发布，新增Plan子Agent、子Agent动态模型选择及恢复能力，提升AI辅助编程的规划与执行效率；可探索利用Plan模式优化多步骤开发任务，但需投入学习成本并确保子Agent间协作逻辑清晰。",
+          "url": "https://x.com/iannuttall/status/1982923886346879345"
+        },
+        {
+          "text": "Anthropic推出Claude for Excel（Beta）、新的财务连接器及用于现金流报告的Agent Skill，企业用户可将Claude集成至Excel进行数据分析并自动化财务报告；开发者可基于此扩展更多企业级AI应用，但需关注Beta版稳定性与财务数据合规性。",
+          "url": "https://x.com/testingcatalog/status/1982878842080661700"
+        },
+        {
+          "text": "Cascade平台现已全面支持Jupyter Notebooks，工程师可直接在Cascade环境中进行数据分析与原型开发，以简化工作流；建议查阅官方文档了解具体集成细节。",
+          "url": "https://x.com/windsurf/status/1982908415090516066"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-0",
+      "headline": "【Strategic/Risk】AI技术应用正重塑工程团队招聘结构，初级岗位需求或受影响。",
+      "bullets": [
+        {
+          "text": "采用AI技术的公司在招聘上呈现出对高级员工需求稳定、对初级员工需求减少的趋势；工程团队在制定招聘计划时，应审慎评估AI对不同层级岗位的影响，并考虑调整人才培养与引进策略，以适应未来技术栈对经验和专业深度的要求。此观察结果的权威性有待进一步验证。",
+          "url": "https://x.com/dotey/status/1982905378817093708"
+        }
+      ]
+    }
+  ]
+}
