@@ -1,0 +1,24 @@
+{
+  "title": "AI 快讯 · Hacker News",
+  "date": "2025-10-27T00:45:23.742423Z",
+  "topics": [
+    {
+      "topic_id": "cluster--1",
+      "headline": "【Strategic/Risk】利用Create-LLM快速训练大模型，并关注Android浏览器扩展与安全特性",
+      "bullets": [
+        {
+          "text": "Create-LLM 工具支持在 60 秒内完成 LLM 训练，工程师可利用此工具快速迭代和验证 LLM 模型，加速 AI 应用开发，但需评估其对特定模型和数据集的适用性及性能表现。",
+          "url": "https://github.com/theaniketgiri/create-llm"
+        },
+        {
+          "text": "Android 版 Helium Browser 支持桌面级浏览器扩展，可直接从 Chrome Web Store 安装。开发者可在移动端测试和部署桌面扩展功能，为 Android 应用提供更丰富的浏览器能力，但需注意扩展在移动环境下的兼容性和性能。",
+          "url": "https://github.com/jqssun/android-helium-browser"
+        },
+        {
+          "text": "Helium Browser 集成了 Vanadium 的隐私/安全强化补丁，默认禁用 JIT 并提供 WebRTC IP 策略保护。建议考虑将此浏览器作为安全敏感型 Android 应用的默认或推荐浏览器，以提升用户隐私和数据安全，同时评估其对应用性能和特定 Web 功能的影响。",
+          "url": "https://github.com/jqssun/android-helium-browser"
+        }
+      ]
+    }
+  ]
+}
