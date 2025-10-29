@@ -1,0 +1,48 @@
+{
+  "title": "AI 快讯 · Hacker News",
+  "date": "2025-10-29T00:02:19.032994Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "Dexto提供快速安装方式，通过`npm i -g dexto`命令即可全局安装，便于工程师快速启动Agent开发。",
+          "url": "https://docs.dexto.ai/docs/category/getting-started"
+        },
+        {
+          "text": "Dexto Agent支持本地、云端或混合部署模式，并提供CLI、Web UI及示例Agent，为不同环境下的Agent开发与管理提供工具支持。",
+          "url": "https://www.dexto.ai/"
+        },
+        {
+          "text": "Dexto设计为模块化、可组合且可移植，允许工程师插入自定义工具或将Dexto Agent作为MCP服务器集成到其他应用（如Cursor）中，提升系统扩展性与互操作性。",
+          "url": "https://www.youtube.com/watch?v=_hZMFIO8KZM"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-1",
+      "headline": "【Strategic/Risk】应对Chrome HTTPS强制要求，并利用高性能Rust序列化框架优化数据处理。",
+      "bullets": [
+        {
+          "text": "Chrome将默认对未加密的HTTP连接发出警告。工程师应确保所有Web服务强制使用HTTPS，以避免用户警告并维护信任，需检查现有服务证书配置并规划迁移未加密流量。",
+          "url": "https://security.googleblog.com/2025/10/https-by-default.html"
+        },
+        {
+          "text": "Apache Fory Rust作为新的序列化框架，在处理嵌套对象时比JSON/Protobuf快10-20倍，并支持无需协调的Schema演进。对于数据密集型或分布式系统，可评估引入Fory Rust以显著提升序列化性能并简化数据结构迭代，但需考虑Rust生态集成成本及现有系统兼容性。",
+          "url": "https://fory.apache.org/blog/2025/10/29/fory_rust_versatile_serialization_framework/"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-0",
+      "headline": "【Strategic/Risk】深入了解亚马逊工程文化，学习其高级工程师的实践经验",
+      "bullets": [
+        {
+          "text": "文章揭示了亚马逊工程文化的核心要素及高级工程师的实践经验。建议工程团队研读这些洞察，识别并借鉴适用于自身项目的技术决策流程、协作模式及质量标准，以优化团队效能。实施时务必结合团队具体情况进行适配，避免生搬硬套。",
+          "url": "https://olshansky.substack.com/p/inside-amazons-engineering-culture"
+        }
+      ]
+    }
+  ]
+}
