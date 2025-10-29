@@ -1,0 +1,60 @@
+{
+  "title": "AI 快讯 · Hacker News",
+  "date": "2025-10-29T23:58:52.026486Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "SQLite Graph Ext 现提供基于 SQLite 的 Cypher 图数据库能力，通过虚拟表集成，允许在现有 SQL 环境中混合执行 SQL 和 Cypher 查询，以处理图数据。",
+          "url": "https://github.com/agentflare-ai/sqlite-graph"
+        },
+        {
+          "text": "使用时需注意当前 alpha 版本的限制：仅支持正向关系，WHERE 子句中无法过滤关系属性，不支持可变长度路径、聚合、ORDER BY 或 RETURN 中的属性投影；所有字符串字面量必须使用双引号。",
+          "url": "https://github.com/agentflare-ai/sqlite-graph"
+        },
+        {
+          "text": "新游戏主机“Board”支持物理识别并提供开放SDK。开发者可利用其SDK，探索结合物理交互的新型游戏或应用开发，需关注SDK功能、开发文档及硬件兼容性。",
+          "url": "https://board.fun/"
+        },
+        {
+          "text": "成本仅10美分的MCU（CH32V003）已实现语音功能。可在极低成本嵌入式项目中集成语音交互能力，适用于IoT设备或简单人机界面，但需评估其语音处理性能、资源消耗及开发工具链支持。",
+          "url": "https://www.atomic14.com/2025/10/29/CH32V003-talking"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-0",
+      "headline": "Minecraft Java Edition移除混淆，uBlock Origin Lite登陆Apple App Store。",
+      "bullets": [
+        {
+          "text": "Minecraft Java Edition正在移除混淆，开发者应评估对现有Mod、工具链及反作弊机制的影响，并准备调整代码或构建流程。需持续跟踪官方更新以了解具体移除时间表和影响范围。",
+          "url": "https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition"
+        },
+        {
+          "text": "uBlock Origin Lite已在Apple App Store中可用，建议用户和开发者了解其在iOS/iPadOS平台上的广告拦截能力，并评估其对应用内广告或内容展示的影响。注意Lite版本可能与桌面版功能有所差异，需查阅官方文档了解具体功能集和限制。",
+          "url": "https://apps.apple.com/in/app/ublock-origin-lite/id6745342698"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-1",
+      "headline": "【Strategic/Risk】Go GC性能优化、嵌入式以太网创新与航空安全漏洞预警",
+      "bullets": [
+        {
+          "text": "Go语言的Green Tea垃圾回收器提供了新的性能优化见解；工程师应深入理解其工作原理，以优化Go应用内存管理和减少GC暂停时间；优化需结合具体应用场景和负载特性进行，避免过度优化。",
+          "url": "https://go.dev/blog/greenteagc"
+        },
+        {
+          "text": "Raspberry Pi Pico（或RP2350）通过位操作（bit-banging）实现了100 Mbit/s以太网连接；这为低成本嵌入式项目提供了无需专用PHY芯片的以太网解决方案，可用于物联网设备或自定义网络接口；性能可能受限于CPU负载和实时性要求，需评估其在特定应用中的稳定性与吞吐量。",
+          "url": "https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet"
+        },
+        {
+          "text": "Collins Aerospace航空系统存在安全漏洞，允许通过特定测试凭证（test:test）向驾驶舱发送文本消息；航空系统开发者和运营商需立即审查并修补相关系统，防止未经授权的访问和潜在的安全威胁；此漏洞影响航空安全，修复应作为最高优先级，并加强安全审计和访问控制机制。",
+          "url": "https://www.ccc.de/en/disclosure/collins-aerospace-mit-test-test-textnachrichten-bis-ins-cockpit-senden"
+        }
+      ]
+    }
+  ]
+}
