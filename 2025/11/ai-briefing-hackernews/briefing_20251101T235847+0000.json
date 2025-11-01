@@ -1,0 +1,38 @@
+{
+  "title": "AI 快讯 · Hacker News",
+  "date": "2025-11-01T23:58:47.902269Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "生成式AI内容溯源技术（如Watermarking）正在发展，工程师应研究并集成此类技术，以实现内容来源可追溯，提升AI生成内容的信任度，并满足未来内容归属和版权要求。",
+          "url": "https://arxiv.org/abs/2510.25934"
+        },
+        {
+          "text": "欧盟AI法案已对AI系统部署产生直接监管影响，例如捷克警方因AI法案被迫关闭机场面部识别摄像头。部署AI系统的工程团队，特别是高风险应用，必须优先考虑AI法案及类似法规的合规性，以避免运营中断，并深入理解区域性AI法规对其系统设计与部署的影响。",
+          "url": "https://edri.org/our-work/czech-police-forced-to-turn-off-facial-recognition-cameras-at-the-prague-airport-thanks-to-the-ai-act/"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-0",
+      "headline": "掌握LLM驱动的Web应用开发、文档向量算术及嵌入式日志压缩新进展",
+      "bullets": [
+        {
+          "text": "LLM实验性地展示了直接执行任务、设计数据库模式、生成UI并根据自然语言反馈演进的能力。在Web应用原型开发中可利用此能力加速迭代，但需注意当前请求速度慢、成本高及UI一致性问题，适用于非生产环境验证。",
+          "url": "https://github.com/samrolken/nokode"
+        },
+        {
+          "text": "文档嵌入支持Word2vec风格的向量算术，可用于实现语义搜索、内容推荐或知识图谱构建。实施时需评估模型在特定数据集上的性能和计算资源消耗。",
+          "url": "https://technicalwriting.dev/embeddings/arithmetic/index.html"
+        },
+        {
+          "text": "Micro-RLE为UART/MCU日志提供高效压缩，Thumb代码264字节，无malloc，可使传感器流（ADC、IMU、GPS）数据量减少33-70%。在资源受限的嵌入式系统中，可采用此方案优化存储和传输带宽，但需验证其在特定硬件和8位模式下的实际性能。",
+          "url": "https://github.com/CoreLathe/Micro-RLE"
+        }
+      ]
+    }
+  ]
+}
