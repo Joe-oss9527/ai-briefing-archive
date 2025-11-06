@@ -1,0 +1,42 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-11-06T00:00:55.864080Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "OpenAI GPT-5.1模型价格显著下调至$0.75/$4，而Claude 4.5 Sonnet仍维持$3/$15。工程师应重新评估现有AI模型成本，考虑切换或优化模型选择以降低运营成本，并关注具体模型版本和区域定价差异。",
+          "url": "https://x.com/steipete/status/1986206269502636512"
+        },
+        {
+          "text": "Pantone的全新Palette Generator已基于Azure OpenAI构建并发布。工程师可将Azure OpenAI视为企业级AI应用（如内容生成、设计辅助）的潜在平台，但需评估其集成复杂性、成本及合规性。",
+          "url": "https://x.com/satyanadella/status/1986181497171378552"
+        },
+        {
+          "text": "利用codemaps工具，可清晰理解特定功能的执行工作流（workflow），并快速定位到相关代码位置，从而提高代码分析与开发效率。",
+          "url": "https://x.com/dotey/status/1986186408080666922"
+        },
+        {
+          "text": "明确LLM、RAG和AI Agent之间的核心区别，有助于工程师在设计和实现AI驱动的系统时，选择合适的技术栈并优化架构。",
+          "url": "https://x.com/dotey/status/1986148836239188089"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-3",
+      "headline": "【Strategic/Risk】关注万亿参数模型云端部署趋势：MoE内核优化与超大规模模型集成挑战",
+      "bullets": [
+        {
+          "text": "Perplexity研究了在云端使用自定义MoE内核运行Kimi K2等万亿参数模型，表明优化超大规模模型云端推理效率是关键。工程师应关注MoE架构的实现细节和自定义内核的开发，以提升模型部署性能并控制成本。",
+          "url": "https://x.com/testingcatalog/status/1986210750478876745"
+        },
+        {
+          "text": "Apple采用Google定制的1.2万亿参数模型驱动Siri，并自研1万亿参数基础模型，预示万亿参数级别模型将成为主流。工程师需准备应对超大规模模型在训练、推理和集成上的技术挑战，探索分布式计算和模型优化策略。",
+          "url": "https://x.com/testingcatalog/status/1986161207418511779"
+        }
+      ]
+    }
+  ]
+}
