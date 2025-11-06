@@ -1,0 +1,46 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-11-06T23:53:45.029390Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "Browserbase插件现支持Claude Code使用带用户cookies的浏览器进行Web操作。工程师可利用此能力，为AI代理构建需要登录状态或特定会话信息的自动化任务，但需注意合规与隐私安全。",
+          "url": "https://x.com/trq212/status/1986521177012261254"
+        },
+        {
+          "text": "Comet浏览器Agentic能力大幅升级，可处理更长时间、更复杂的Web自动化任务。建议将其应用于需要AI代理执行多步骤、长时间运行的Web交互场景，以提高任务稳定性和成功率。",
+          "url": "https://x.com/testingcatalog/status/1986529317824987275"
+        },
+        {
+          "text": "Augment Code和Opencode等AI编码代理已在Zed IDE中可用。开发者可在Zed中直接集成AI辅助编码，提升代码生成、重构和调试效率，但需熟悉其使用方式并结合人工审查。",
+          "url": "https://x.com/augmentcode/status/1986563279305777574"
+        },
+        {
+          "text": "Revelio lab数据显示，自2023年1月起，AI高替代率的入门级职位招聘量下降40%。工程团队应调整招聘策略，侧重AI难以替代的技能，并投资员工AI技能转型，以应对AI对劳动力市场的结构性影响。",
+          "url": "https://x.com/dotey/status/1986539821418889449"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-2",
+      "headline": "新AI模型与数据集成能力提升：Grok-code-fast、Polaris Alpha及v0集成Snowflake",
+      "bullets": [
+        {
+          "text": "TRAE平台现已支持xai的Grok-code-fast模型，该模型专为代理编码设计，具备轻量级和高速特性。工程师可利用此模型在TRAE上进行高效的AI代理编码任务，尤其适用于对速度和资源占用有要求的场景。",
+          "url": "https://x.com/Trae_ai/status/1986525395349541338"
+        },
+        {
+          "text": "OpenRouter上新增Polaris Alpha隐形模型，提供256k超大上下文窗口和良好性能。开发者可考虑在处理长文本、复杂代码库分析等需要大上下文能力的场景中，通过OpenRouter集成并测试Polaris Alpha的性能表现。",
+          "url": "https://x.com/testingcatalog/status/1986530724648812544"
+        },
+        {
+          "text": "v0平台已集成Snowflake，允许用户直接查询数据、构建数据驱动的Next.js应用程序，并安全地通过Snowflake计算资源进行部署。这为快速开发和部署依赖Snowflake数据的Web应用提供了便利，同时确保数据操作的安全性。",
+          "url": "https://x.com/rauchg/status/1986564299071103091"
+        }
+      ]
+    }
+  ]
+}
