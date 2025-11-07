@@ -1,0 +1,42 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-11-07T23:56:40.829814Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "gpt-5-codex-mini模型已在Codex中可用，提供高达4倍的使用量。工程师可使用“$ codex -m gpt-5-co...”命令进行尝试，以优化AI编程成本和效率。",
+          "url": "https://x.com/steipete/status/1986869607010050282"
+        },
+        {
+          "text": "在使用Codex为未发布应用生成代码时，建议明确指示其“避免feature gates/flags和任何向后兼容性更改”，以确保代码的纯净性和前瞻性。",
+          "url": "https://x.com/kregenrek/status/1986889193037951216"
+        },
+        {
+          "text": "Droid Exec工具现支持与任意GitHub仓库进行对话交互，提供完整的仓库和使用指南，可克隆以辅助代码理解和开发。",
+          "url": "https://x.com/bentossell/status/1986886637997953339"
+        },
+        {
+          "text": "`runanywhereai` SDK 现支持在微调开源模型时卸载任务。建议在处理小型任务时集成此 SDK，以提高资源利用效率和模型训练流程。",
+          "url": "https://x.com/yoheinakajima/status/1986932073043833192"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-2",
+      "headline": "提升开发与内容创作效率：Chrome分屏功能与创新视频剪辑工具",
+      "bullets": [
+        {
+          "text": "Chrome浏览器现已支持分屏功能，允许在一个界面同时打开两个标签页。工程师可利用此特性优化开发工作流，例如并排查阅文档与代码，或进行实时调试，以提高多任务处理效率。",
+          "url": "https://x.com/dotey/status/1986914114216526131"
+        },
+        {
+          "text": "CutFa.st 是一款创新的视频剪辑工具，提供类似荧光笔的直观操作来剪辑口播视频。内容团队可探索使用此工具简化口播视频的后期制作流程，快速提取关键信息片段，但需评估其对特定视频格式和复杂编辑需求的兼容性。",
+          "url": "https://x.com/Jimmy_JingLv/status/1986876459324219726"
+        }
+      ]
+    }
+  ]
+}
