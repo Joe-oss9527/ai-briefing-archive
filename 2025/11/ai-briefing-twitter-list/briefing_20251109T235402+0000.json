@@ -1,0 +1,34 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-11-09T23:54:02.959699Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "使用 `defaultIsolation(MainActor.self)` 可在项目中管理并发，确保关键操作在主线程执行，避免UI卡顿及数据竞争。",
+          "url": "https://x.com/steipete/status/1987472644493414903"
+        },
+        {
+          "text": "`cli/mcp` 上下文中的 AI 代理现支持组合与过滤，每次调用均可保存上下文，而非仅限于工具声明，从而提升代理的会话状态管理能力。",
+          "url": "https://x.com/steipete/status/1987604716625473765"
+        },
+        {
+          "text": "OpenAI Codex 的一个烦恼问题正在通过 GitHub PR (openai/codex/pull/5258) 修复，Codex 用户可关注此 PR 以获取潜在的改进。",
+          "url": "https://x.com/steipete/status/1987667949809807647"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-0",
+      "headline": "Laranode开源面板简化VPS/服务器管理，提升运维效率",
+      "bullets": [
+        {
+          "text": "Laranode提供开源的服务器管理面板，旨在直观管理VPS/服务器的网站、数据库、SSL和邮箱等服务。工程师可利用此工具简化多项运维任务，降低管理复杂性。部署前建议评估其与现有环境的集成度及社区活跃度。",
+          "url": "https://x.com/geekbb/status/1987505287226630294"
+        }
+      ]
+    }
+  ]
+}
