@@ -1,0 +1,38 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-11-10T23:52:59.719343Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "Neon数据库服务在不同协议下响应时间存在差异：pg (TCP) 平均 3.00ms，HTTP 4.50ms，WebSocket 3.90ms。在设计或优化数据库连接时，应优先考虑 TCP 协议以获取更低延迟，并根据应用场景评估不同协议的性能影响。",
+          "url": "https://x.com/rauchg/status/1988008789895971204"
+        },
+        {
+          "text": "BibiGPT (bibigpt.co) 提供音视频总结功能。工程师可利用此工具对音视频内容进行快速摘要，例如用于会议记录、课程回顾或内容审核，以提高信息处理效率。使用前需评估其总结准确性、支持的格式及潜在的API集成可行性。",
+          "url": "https://x.com/Jimmy_JingLv/status/1987971207724257336"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-1",
+      "headline": "快速集成与本地优化：Replit支持OpenRouter新LLM，Inference Engine 2.0简化模型访问，WSL本地推理性能提升。",
+      "bullets": [
+        {
+          "text": "Replit应用现已通过OpenRouter即时支持新的LLM和提供商。工程师可利用此集成在Replit环境中快速测试和部署多样化LLM，提升开发灵活性；需关注OpenRouter的集成文档和Replit环境兼容性。",
+          "url": "https://x.com/OpenRouterAI/status/1988019398670479553"
+        },
+        {
+          "text": "Inference Engine 2.0已发布，提供一个统一的playground来访问多种模型。工程师可利用此平台简化模型探索、管理与测试流程，提高开发效率；需熟悉新版本接口和功能。",
+          "url": "https://x.com/CodeByPoonam/status/1987954182184444355"
+        },
+        {
+          "text": "在WSL中本地设置ComfyUI运行Flux开发推理，RTX 3090显卡表现良好。工程师可参考此配置在WSL环境下进行本地AI模型开发和推理，以实现良好性能；需具备WSL和GPU配置经验，并考虑硬件兼容性。",
+          "url": "https://x.com/donvito/status/1987939299271340076"
+        }
+      ]
+    }
+  ]
+}
