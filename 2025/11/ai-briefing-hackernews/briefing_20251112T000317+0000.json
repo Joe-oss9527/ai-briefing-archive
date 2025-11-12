@@ -1,0 +1,34 @@
+{
+  "title": "AI 快讯 · Hacker News",
+  "date": "2025-11-12T00:03:17.165913Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "Google发布了Adk-go，一个Go语言的code-first工具包，用于构建、评估和部署AI智能体。工程师可利用此工具加速AI智能体项目的开发周期，尤其适用于Go生态系统。建议关注其在不同AI模型和部署环境下的兼容性与性能表现。",
+          "url": "https://github.com/google/adk-go"
+        },
+        {
+          "text": "Tusk Drift提供了一个开源工具，用于自动化API测试。团队可集成此工具到CI/CD流程中，实现API测试的自动化，提高测试效率和质量。建议评估其对复杂API场景的支持程度及社区活跃度。",
+          "url": "https://github.com/Use-Tusk/drift-node-sdk"
+        },
+        {
+          "text": "提供了一篇关于“如何训练LLM：第一部分”的指南。对于希望深入理解或开始训练大型语言模型的工程师，这是一份有价值的入门资源。该指南可能侧重于基础，后续需关注更高级的训练技术和优化策略。",
+          "url": "https://omkaark.com/posts/llm-1b-1.html"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-2",
+      "headline": "【Strategic/Risk】DARPA与德克萨斯州投资14亿美元建设3D异构集成代工厂，推动未来硬件技术发展。",
+      "bullets": [
+        {
+          "text": "DARPA与德克萨斯州正通过14亿美元投资建设独特的3D异构集成代工厂，预示着先进封装技术的新能力。工程师应关注此战略投资对未来高性能计算和微电子设计的影响，为利用新兴集成技术和供应链变化做好准备。需持续跟踪该代工厂的具体技术路线、开放性及潜在合作机会。",
+          "url": "https://spectrum.ieee.org/3d-heterogeneous-integration"
+        }
+      ]
+    }
+  ]
+}
