@@ -1,0 +1,24 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-11-19T04:51:46.337673Z",
+  "topics": [
+    {
+      "topic_id": "cluster--1",
+      "headline": "MLflow 简化 AI 模型推理追踪，Gemini 3 展现高级生成与深度推理能力",
+      "bullets": [
+        {
+          "text": "通过一行 Python 代码 `mlflow.openai.autolog()`，可为 MLflow 中的每次模型推理添加追踪。此功能可与 LM Studio 结合使用，因其完全支持 OpenAI API，从而简化 AI 模型推理的监控与调试。",
+          "url": "https://x.com/donvito/status/1990985441143820740"
+        },
+        {
+          "text": "Gemini 3 具备强大的生成能力，包括单句克隆网站、从 Figma 截图生成网页、使用 Three.js 生成 3D 教学演示，以及生成漫画网站、AI 短剧、拼音学习工具和游戏。工程师可利用其多模态生成能力，加速原型开发和内容创作。",
+          "url": "https://x.com/vista8/status/1990979212690534641"
+        },
+        {
+          "text": "Gemini 3.0 Pro 被定位为“思考伙伴”，能够执行“深度思考”任务，例如对嵌入进行推理（如“King - Queen = Man - Woman”）。工程师可探索利用其高级推理能力，开发更复杂的 Agentic 应用，处理需要深层语义理解和逻辑推理的场景。",
+          "url": "https://x.com/howie_serious/status/1990990114680680871"
+        }
+      ]
+    }
+  ]
+}
