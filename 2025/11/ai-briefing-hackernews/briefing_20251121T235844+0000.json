@@ -1,0 +1,46 @@
+{
+  "title": "AI 快讯 · Hacker News",
+  "date": "2025-11-21T23:58:44.979128Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "现有资源提供了从零构建最小可行Armv7模拟器的详细指南。工程师可利用此深入理解ARM架构，用于嵌入式系统开发、固件调试或自动化测试环境搭建，但需具备底层系统编程知识，且模拟器可能仅支持特定指令集子集。",
+          "url": "https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/"
+        },
+        {
+          "text": "现在可以使用JavaScript开发PlayStation 2游戏。前端或JS开发者可探索复古游戏开发，利用Web技术进行原型设计或教育项目，但需注意性能和兼容性可能受限，主要适用于非商业或实验性项目。",
+          "url": "https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript"
+        },
+        {
+          "text": "FAWK项目展示了LLM具备编写语言解释器的能力。工程师可探索利用LLM辅助生成复杂语言工具或特定领域DSL解释器，以提升开发效率，但需验证生成代码的正确性、性能及安全性。",
+          "url": "https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html"
+        },
+        {
+          "text": "资源详细阐述了如何将异步任务管理集成到Postgres表中。考虑使用Postgres作为轻量级任务队列或状态管理，简化异步任务的持久化和调度，适用于对延迟不敏感且需要事务一致性的场景，但需注意数据库负载。",
+          "url": "https://taylor.town/pg-task"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-2",
+      "headline": "【Strategic/Risk】工程关注：开源许可、ARM平台硬件及PNG图像渲染行为更新",
+      "bullets": [
+        {
+          "text": "Arduino已更新其条款和条件，表明其不再作为开放共享平台运作。工程师应重新评估现有及未来项目对Arduino许可条款的依赖性，并关注官方公告以了解具体变更细节，以规避潜在的使用限制。",
+          "url": "https://www.molecularist.com/2025/11/did-qualcomm-kill-arduino-for-good.html"
+        },
+        {
+          "text": "Tuxedo Computers已取消基于Snapdragon X Elite SoC的ARM Linux笔记本电脑项目。计划在ARM架构上开发或部署Linux解决方案的工程师，需重新评估Snapdragon X Elite平台的硬件可用性和生态支持，并考虑其他厂商的ARM Linux硬件进展以避免单一平台依赖。",
+          "url": "https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo"
+        },
+        {
+          "text": "PNG图像中的EXIF方向信息不被CSS属性`image-orientation: from-image`用于图像方向校正。前端或图像处理工程师在处理此类PNG图像时，不应依赖此CSS属性自动校正方向，而应考虑手动处理或转换图像格式，以避免图像显示方向错误。",
+          "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1627423"
+        }
+      ]
+    }
+  ]
+}
