@@ -1,0 +1,46 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-11-21T23:53:26.745667Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "Cursor 2.1已发布，新增计划模式和AI代码审查功能。开发者应升级Cursor IDE，利用AI代码审查提升代码质量和开发效率，并关注新功能对现有工作流的兼容性。",
+          "url": "https://x.com/ericzakariasson/status/1991967381137330180"
+        },
+        {
+          "text": "Gemini 3模型已向60%的Gemini AI pro账户通过CLI开放。拥有pro账户的开发者可尝试通过gemini cli访问并集成Gemini 3，以利用其最新能力；其余用户需等待官方通知。",
+          "url": "https://x.com/dotey/status/1991977304898367718"
+        },
+        {
+          "text": "Gemini 3在多项基准测试（如数学）中达到SOTA水平。在需要高性能AI模型，尤其是在数学或复杂逻辑处理场景下，工程师可优先评估和采用Gemini 3，但实际应用效果及API稳定性需进一步验证。",
+          "url": "https://x.com/OfficialLoganK/status/1992004386990813598"
+        },
+        {
+          "text": "Claude Code CLI现支持通过输入“&”在后台启动任务并将其传送到Claude Code Web，以优化工作流效率。",
+          "url": "https://x.com/trq212/status/1991977749821735341"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-1",
+      "headline": "【Strategic/Risk】AI 代理能力扩展，支持自动化业务流程与混合代理构建，并提供 DPI 审查规避工具。",
+      "bullets": [
+        {
+          "text": "Replit Agent 现已支持自动化 Stripe 沙盒账户配置、产品、定价及订阅创建。工程师可利用此能力快速搭建测试环境或批量管理 Stripe 资源，但需注意代理的权限管理和操作审计。",
+          "url": "https://x.com/paulg/status/1991962955911774478"
+        },
+        {
+          "text": "Windsurf 平台允许将 SWE-1.5 与 Sonnet 4.5 结合用于规划，从而构建利用 SWE-1.5 速度优势的混合代理。建议工程师探索此组合以优化 AI 代理的性能和规划能力，并评估其在特定任务中的稳定性。",
+          "url": "https://x.com/windsurf/status/1991977104288997492"
+        },
+        {
+          "text": "SpoofDPI 是一款用于绕过深度包检测 (DPI) 审查的工具。在需要规避网络审查的场景下，可考虑部署 SpoofDPI 以维护通信自由，但使用前务必了解当地法律法规并注意潜在的网络安全风险。",
+          "url": "https://x.com/tom_doerr/status/1992001603121905773"
+        }
+      ]
+    }
+  ]
+}
