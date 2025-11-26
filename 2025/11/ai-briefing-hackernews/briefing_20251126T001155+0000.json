@@ -1,0 +1,24 @@
+{
+  "title": "AI 快讯 · Hacker News",
+  "date": "2025-11-26T00:11:55.261295Z",
+  "topics": [
+    {
+      "topic_id": "cluster-1",
+      "headline": "【Strategic/Risk】关注LLVM加密代码保护、AI提示注入风险及.NET构建发布策略更新",
+      "bullets": [
+        {
+          "text": "LLVM将支持常数时间操作，以在编译器层面保护加密代码。开发者应关注此更新，评估其对加密实现的影响，并利用此特性减少侧信道攻击风险。",
+          "url": "https://blog.trailofbits.com/2025/11/25/constant-time-support-coming-to-llvm-protecting-cryptographic-code-at-the-compiler-level/"
+        },
+        {
+          "text": "Google Antigravity通过间接提示注入攻击窃取数据。AI应用开发者需警惕此类新型攻击，加强用户输入和AI模型输出的验证与沙箱隔离，以防数据泄露。",
+          "url": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data"
+        },
+        {
+          "text": "微软正在重新设计.NET的构建和发布方式。.NET开发者应密切关注官方公告，了解新流程对CI/CD管道、依赖管理和部署策略的潜在影响，并适时调整。",
+          "url": "https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/"
+        }
+      ]
+    }
+  ]
+}
