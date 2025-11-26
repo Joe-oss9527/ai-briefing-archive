@@ -1,0 +1,42 @@
+{
+  "title": "AI 快讯 · Hacker News",
+  "date": "2025-11-26T23:53:20.819374Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "Fara-7B作为高效代理模型，可用于开发或集成Agentic应用，提升自动化和决策能力；需关注模型部署与资源消耗。",
+          "url": "https://github.com/microsoft/fara"
+        },
+        {
+          "text": "Gemini CLI提供Agentic Coding实用技巧，工程师可利用这些技巧优化AI辅助编程流程，提高开发效率；需熟悉Gemini CLI工具链。",
+          "url": "https://github.com/addyosmani/gemini-cli-tips"
+        },
+        {
+          "text": "Qiskit作为量子计算开源SDK，开发者可利用其进行量子算法设计、模拟及在真实量子硬件上运行程序；需具备量子计算基础知识。",
+          "url": "https://github.com/Qiskit/qiskit"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-1",
+      "headline": "【Strategic/Risk】关注 iOS 非官方运行、Apple 3D 打印技术及跨平台 AirDrop 互操作性进展",
+      "bullets": [
+        {
+          "text": "可以在已弃用 iOS 设备上运行不受支持的 iOS 版本，这为系统级调试和兼容性测试提供了非官方途径；但需注意其稳定性、安全风险及功能限制。",
+          "url": "https://nyansatan.github.io/run-unsupported-ios/"
+        },
+        {
+          "text": "Apple 已在 iPhone Air 中引入 3D 打印技术，工程师应关注其对产品设计和制造工艺的影响，评估增材制造在未来硬件开发中的应用潜力。",
+          "url": "https://www.ifixit.com/News/114439/okay-so-apples-using-3d-printing-in-the-iphone-air-but-how"
+        },
+        {
+          "text": "欧盟法规促使 Apple 采用新 Wi-Fi 标准，使得 Android 设备现可支持 AirDrop。开发者可利用此互操作性，在跨平台文件共享应用中集成 AirDrop 兼容功能，但需关注具体协议细节和实现方式。",
+          "url": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/"
+        }
+      ]
+    }
+  ]
+}
