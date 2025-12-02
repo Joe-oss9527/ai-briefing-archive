@@ -1,0 +1,42 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-12-02T03:44:03.346432Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "Wispbit-ai/wispbit提供模型无关的AI代码审查能力，可集成至CI/CD流程，实现自动化代码质量检查。部署前需评估其对特定技术栈的兼容性及审查准确率。",
+          "url": "https://x.com/tom_doerr/status/1995438216959123922"
+        },
+        {
+          "text": "DeepSeek v3.2通过LobeHub的Agent Interface展示其Agentic能力。可参考LobeHub接口设计Agent应用，或评估DeepSeek v3.2在Agentic场景下的集成潜力。",
+          "url": "https://x.com/arvin17x/status/1995474018086924438"
+        },
+        {
+          "text": "DeepSeek v3.2使用EvalSys的MCPMark评估Tool Use性能，以确保客观公正。在评估AI模型Tool Use能力时，建议采用MCPMark等标准化基准进行测试。",
+          "url": "https://x.com/arvin17x/status/1995474018086924438"
+        },
+        {
+          "text": "利用开源AI应用构建器Blank Space (https://github.com/BrandeisPatrick/blank-space) 加速AI应用原型开发与部署，支持快速迭代AI辅助编程流程。",
+          "url": "https://x.com/tom_doerr/status/1995480138675290181"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-0",
+      "headline": "提升LLM开发与测试效率：本地部署LLM Council并利用沙盒生成代码基准。",
+      "bullets": [
+        {
+          "text": "LLM Council支持本地快速安装与OpenRouterAI配置，并可通过修改API URL兼容LLM Gateway。工程师可在5分钟内本地运行LLM Council，并通过配置OPENROUTER_API_URL为https://api.llmgateway.io/v1/chat/completions，实现与LLM Gateway的无缝集成，扩展模型选择与管理能力。",
+          "url": "https://x.com/donvito/status/1995436258349473965"
+        },
+        {
+          "text": "腾讯混元发布AutoCodeBenchmark项目，支持LLM通过沙盒交互自动生成代码基准测试。开发者可利用此项目自动化LLM生成代码的测试与评估流程，提升代码质量和开发效率。",
+          "url": "https://x.com/tom_doerr/status/1995464899464441966"
+        }
+      ]
+    }
+  ]
+}
