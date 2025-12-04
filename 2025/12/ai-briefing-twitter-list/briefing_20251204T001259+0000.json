@@ -1,0 +1,34 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-12-04T00:12:59.331624Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "Kling AI发布VIDEO 2.6模型，实现原生音画同步及中英双语多人物对白。工程师可利用此能力简化视频制作流程，探索多模态AI内容生成，但需关注模型集成与API可用性。",
+          "url": "https://x.com/imxiaohu/status/1996320432908390888"
+        },
+        {
+          "text": "发现'🍌 nano banana pro prompt'提示词，可生成手绘风格信息图卡。工程师可直接复用该提示词，通过AI快速生成设计资产，建议验证其在不同AI模型上的效果。",
+          "url": "https://x.com/dotey/status/1996303762428731486"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-0",
+      "headline": "利用新课程与兼容平台，加速Agentic Coding开发与部署",
+      "bullets": [
+        {
+          "text": "DeepLearning.AI和Andrew Ng发布了免费课程，教授实用编码代理的构建与全栈部署。工程师可利用这些资源，快速掌握Agentic Coding实践，从基础构建到工具执行。",
+          "url": "https://x.com/Hesamation/status/1996361374298165631"
+        },
+        {
+          "text": "一个新系统支持托管代理，并广泛兼容LangGraph、AutoGen、Google ADK和OpenAI Agents SDK。开发者可利用此平台部署和管理跨框架的编码代理，简化集成与开发流程。",
+          "url": "https://x.com/donvito/status/1996322460397113807"
+        }
+      ]
+    }
+  ]
+}
