@@ -1,0 +1,42 @@
+{
+  "title": "AI 快讯 · Hacker News",
+  "date": "2025-12-04T00:19:29.386048Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "Phind 3现可直接生成原始React代码以构建工具，开发者可利用此能力加速前端工具开发，但需注意评估生成代码的质量与安全性。",
+          "url": "https://news.ycombinator.com/item?id=46137548"
+        },
+        {
+          "text": "Helldivers 2通过数据去重将安装包大小从154GB降至23GB，实现85%缩减。工程团队可借鉴此方法优化大型应用存储，提升加载性能，尤其对机械硬盘用户效果显著。",
+          "url": "https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives"
+        },
+        {
+          "text": "Alpine Linux 3.23.0已发布，引入APK-tools v3并切换至Linux-stable内核。建议更新容器镜像和CI/CD环境，以获取新特性和稳定性，并测试现有应用兼容性。",
+          "url": "https://alpinelinux.org/posts/Alpine-3.23.0-released.html"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-0",
+      "headline": "【Strategic/Risk】工程提示：关注React/Next.js RCE漏洞、AI API数据泄露风险及MinIO维护模式",
+      "bullets": [
+        {
+          "text": "React和Next.js存在RCE漏洞 (GHSA-9qr9-h5gf-34mp)，请立即检查并升级相关依赖以修复此远程代码执行漏洞，并关注官方安全公告获取最新补丁信息。",
+          "url": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
+        },
+        {
+          "text": "某法律AI工具因逆向工程暴露超10万份机密文件，请审查并加强API安全策略，特别是对敏感数据访问的认证、授权和数据加密措施，并评估内部AI/API服务是否存在类似风险。",
+          "url": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k"
+        },
+        {
+          "text": "MinIO已进入维护模式，使用MinIO的团队需评估此变更对现有部署的影响，并规划后续支持或迁移策略，查阅官方提交记录以了解具体维护范围和未来支持计划。",
+          "url": "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2"
+        }
+      ]
+    }
+  ]
+}
