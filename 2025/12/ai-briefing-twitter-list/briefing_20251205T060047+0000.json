@@ -1,0 +1,38 @@
+{
+  "title": "AI 快讯 · Twitter",
+  "date": "2025-12-05T06:00:47.713863Z",
+  "topics": [
+    {
+      "topic_id": "agentic-focus",
+      "headline": "Agentic Focus",
+      "bullets": [
+        {
+          "text": "利用统一API从文本生成图表，可集成至开发流程，自动化文档与报告中的图示创建，但需熟悉其支持的图表类型及语法。",
+          "url": "https://github.com/yuzutech/kroki/"
+        },
+        {
+          "text": "通过@cocoindex_io提供的指南，为Claude代理实现数据转换技能，以自动化数据处理任务，需遵循其实现规范并确保数据处理准确性。",
+          "url": "https://github.com/cocoindex-io/cocoindex-claude"
+        },
+        {
+          "text": "探索自主LLM代理主动工具发现项目，以增强代理的自主学习和工具集成能力，该项目处于研究阶段，生产应用需评估其成熟度。",
+          "url": "https://github.com/xfey/MCP-Zero/"
+        }
+      ]
+    },
+    {
+      "topic_id": "cluster-1",
+      "headline": "新一代AI模型API上线，赋能代码与多媒体内容生成。",
+      "bullets": [
+        {
+          "text": "GPT-5.1 Codex Max 模型 API 已上线并被Cursor等编程工具集成，开发者可关注其API文档，利用其提升代码生成与辅助开发效率。",
+          "url": "https://x.com/op7418/status/1996757975609098690"
+        },
+        {
+          "text": "KlingAI 数字人模型 Avatar 2.0 现可通过音乐音频生成唱歌视频，为多媒体内容创作提供新能力，但具体工程接入细节待官方公布。",
+          "url": "https://x.com/imxiaohu/status/1996785214547468476"
+        }
+      ]
+    }
+  ]
+}
