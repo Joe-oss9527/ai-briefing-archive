@@ -1,0 +1,24 @@
+{
+  "title": "AI 快讯 · Hacker News",
+  "date": "2025-12-10T00:31:09.828193Z",
+  "topics": [
+    {
+      "topic_id": "cluster-1",
+      "headline": "【Strategic/Risk】Mistral发布Devstral 2提升AI开发效率，关注开源视频方案PeerTube及Tenstorrent市场策略。",
+      "bullets": [
+        {
+          "text": "Mistral发布了SWE-Bench验证通过率达72.2%的Devstral 2模型及Vibe CLI。工程师可利用Devstral 2提升代码生成与修复效率，并通过Vibe CLI简化AI模型交互与开发流程。需关注模型在特定场景下的实际表现与集成成本。",
+          "url": "https://mistral.ai/news/devstral-2-vibe-cli"
+        },
+        {
+          "text": "PeerTube被数字公共产品联盟认定为数字公共产品。对于寻求去中心化、开源视频解决方案的项目，可考虑集成或部署PeerTube，利用其社区支持和开放标准。评估其可扩展性、维护成本及与现有基础设施的兼容性。",
+          "url": "https://www.digitalpublicgoods.net/r/peertube"
+        },
+        {
+          "text": "Tenstorrent进行裁员并转向开发者销售策略。工程师应关注AI硬件市场动态，评估Tenstorrent未来产品和支持策略的变化，这可能影响其AI芯片的采购或合作决策。密切跟踪其业务转型进展及其对产品路线图和生态系统的影响。",
+          "url": "https://www.eetimes.com/layoffs-at-tenstorrent-as-startup-pivots-towards-developer-sales/"
+        }
+      ]
+    }
+  ]
+}
